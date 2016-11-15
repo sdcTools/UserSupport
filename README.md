@@ -10,5 +10,4 @@ To find the latest versions of the supported software, go to:
 | mu-argus | [Mu-argus releases](https://github.com/sdcTools/muargus/releases) |
 | tau-argus | [Tau-argus releases](https://github.com/sdcTools/tauargus/releases) |
 | sdcMicro | [sdcMicro releases](https://github.com/sdcTools/sdcMicro/releases) |
-| sdcMicroGUI | [sdcMicroGUI releases](https://github.com/sdcTools/sdcMicroGUI/releases) |
 | sdcTable | [sdcTable releases](https://github.com/sdcTools/sdcTable/releases) |
