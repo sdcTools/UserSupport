@@ -11,4 +11,4 @@ To find the latest versions of the supported software, go to:
 | sdcMicro | [sdcMicro releases](https://github.com/sdcTools/sdcMicro/releases) | | sdcTable | [sdcTable releases](https://github.com/sdcTools/sdcTable/releases) |
 
 For information on the number of downloads of releases (binaries) from this github
-[click here](http://htmlpreview.github.io/?https://github.com/sdcTools/UserSupport/blob/master/ReleaseStatistics.html)
+<a href="http://htmlpreview.github.io/?https://github.com/sdcTools/UserSupport/blob/master/ReleaseStatistics.html" target="_blank">click here</a> (opens in new tab)
