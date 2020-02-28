@@ -18,4 +18,4 @@ Check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](
 * * *
 
 For information on the number of downloads of releases (binaries) of SDC software from sdcTools on github
-[click here](https://github.com/sdcTools/UserSupport/ReleaseStatistics.html).
+[click here](./ReleaseStatistics.html).
