@@ -10,5 +10,5 @@ To find the latest versions of the supported software, go to:
 | mu-argus | [Mu-argus releases](https://github.com/sdcTools/muargus/releases) | | tau-argus | [Tau-argus releases](https://github.com/sdcTools/tauargus/releases) |
 | sdcMicro | [sdcMicro releases](https://github.com/sdcTools/sdcMicro/releases) | | sdcTable | [sdcTable releases](https://github.com/sdcTools/sdcTable/releases) |
 
-For information on the number of downloads of releases (binaries) of SDC software from sdcTools on github
-<a href="https://htmlpreview.github.io/?https://github.com/sdcTools/UserSupport/blob/master/ReleaseStatistics.html" target="_blank">click here</a>
+//For information on the number of downloads of releases (binaries) of SDC software from sdcTools on github
+//<a href="https://htmlpreview.github.io/?https://github.com/sdcTools/UserSupport/blob/master/ReleaseStatistics.html" //target="_blank">click here</a>
