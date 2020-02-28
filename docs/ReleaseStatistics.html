@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript">
+function showStats(data) {
+
+	var reponame = data[0].url.substring(data[0].url.indexOf("/sdcTools")+10,data[0].url.indexOf("/releases"));
+    var html = '';
+	
+    html += "<div class='row release'>" +
+        "<h3>" + reponame + " " + data[0].tag_name + "</h3>";
+	html += "<a href='" + data[0].html_url + "' target='_blank'>" + data[0].html_url + "</a>";
+    
+	html += "<h4>Release Info:</h4>";
+	html += "<ul>";
+	html += "<li>Release Author: <a href='" + data[0].author.html_url + "'>" + data[0].author.login  +"</a><br></li>";
+	html += "<li>Published on: " + data[0].published_at.split("T")[0] + "</li>";
+	html += "</ul>";
+    
+	if(data[0].assets.length != 0) {
+		html += "<h4>Download Info: </h4>";
+		html += "<ul>";
+		$.each(data[0].assets, function(index, asset) {
+			var assetSize = (asset.size / 1048576.0).toFixed(2);
+			html += "<li>" + asset.name + " (" + assetSize + " MB) - Downloaded " +
+				asset.download_count + " times.<br><i>Last updated on " + asset.updated_at.split("T")[0] + "</i></li>";
+		});
+		html += "</ul>";
+	}
+	else{
+		html += "<h4>Download Info: </h4>";
+		html += "<ul><li>Only sources to download; no download info</li></ul>";
+	}
+	
+	html += "</div>";
+	html += "<a href='https://github.com/sdcTools/UserSupport'>Return to UserSupport on GitHub</a><p></p>"
+
+    var resultDiv = $("#stats-result");
+    resultDiv.append(html);
+}
+</script>
+<script type="text/javascript">
+	$.getJSON("https://api.github.com/repos/sdcTools/tauargus/releases", showStats).fail(showStats);
+	$.getJSON("https://api.github.com/repos/sdcTools/muargus/releases", showStats).fail(showStats);
+	$.getJSON("https://api.github.com/repos/sdcTools/sdcmicro/releases", showStats).fail(showStats);
+	$.getJSON("https://api.github.com/repos/sdcTools/sdctable/releases", showStats).fail(showStats);	
+</script>
+
+
+<html>
+<style>
+ html {font-family: 'Roboto', sans-serif}
+ 
+ .release {
+    background-color: rgba(52, 152, 219, 0.2);
+    border: solid 1px rgba(52, 152, 219, 0.4);
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+ }
+</style>
+<head>
+    <title>Release Statistics via GitHub</title>
+</head>
+<body>
+<div class="container">
+	<div class="row" id="stats-result">
+	</div>
+</div>
+</body>
+</html>
