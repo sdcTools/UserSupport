@@ -4,7 +4,7 @@ layout: default
 # UserSupport and Releases
 The place to ask for User Support on SDC tools through Issues.
 
-Check out the [wiki](../../../wiki) and [issues](../../../issues) for more details and discussion.
+Check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](https://github.com/sdcTools/UserSupport/issues) for more details and discussion.
 
 * * *
 
@@ -18,4 +18,4 @@ Check out the [wiki](../../../wiki) and [issues](../../../issues) for more detai
 * * *
 
 For information on the number of downloads of releases (binaries) of SDC software from sdcTools on github
-[click here](../ReleaseStatistics.html).
+[click here](https://github.com/sdcTools/UserSupport/ReleaseStatistics.html).
