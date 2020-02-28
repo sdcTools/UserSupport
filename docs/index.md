@@ -8,7 +8,7 @@ Check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](
 
 * * *
 
-### To find the latest versions of the supported software, go to:
+## Releases can be found here:
 
 | Software | Collection of releases |    | Software | Collection of releases |
 | --- | --- | --- | --- | --- | 
