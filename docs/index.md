@@ -17,5 +17,9 @@ Check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](
 
 * * *
 
-For information on the number of downloads of releases (binaries) of SDC software from sdcTools on github
-[click here](./ReleaseStatistics.html).
+## Information on number of downloads of the different releases can be found here:
+
+* [mu-argus](muargusreleases.html)
+* [tau-argus](tauargusreleases.html)
+* [sdcMicro](sdcmicroreleases.html)
+* [sdcTable](sdctablereleases.html)
