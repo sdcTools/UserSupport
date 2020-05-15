@@ -6,6 +6,8 @@ The place to ask for User Support on SDC tools through Issues.
 
 Check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](https://github.com/sdcTools/UserSupport/issues) for more details and discussion.
 
+[Go get support](https://github.com/sdcTools/UserSupport/wiki/Getting-Support)
+
 * * *
 
 ## Releases can be found here:
