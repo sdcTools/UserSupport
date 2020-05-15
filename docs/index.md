@@ -4,9 +4,9 @@ layout: default
 # UserSupport and Releases
 The place to ask for User Support on SDC tools through Issues.
 
-Check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](https://github.com/sdcTools/UserSupport/issues) for more details and discussion.
+Information on how to get support can be found [here](https://github.com/sdcTools/UserSupport/wiki/Getting-Support)
 
-[Go get support](https://github.com/sdcTools/UserSupport/wiki/Getting-Support)
+Also check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](https://github.com/sdcTools/UserSupport/issues) for more details and discussion.
 
 * * *
 
