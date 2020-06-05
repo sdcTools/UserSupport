@@ -9,6 +9,10 @@ Information on how to get support can be found [here](https://github.com/sdcTool
 Also check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](https://github.com/sdcTools/UserSupport/issues) for more details and discussion.
 
 * * *
+NEW RELEASE
+
+Latest version 4.2.0 build 5 of tau-argus is now available. This version includes noise addition using the Cell Key Method for frequency count tables as well as magnitude tables.
+* * *
 
 ## Releases can be found here:
 
