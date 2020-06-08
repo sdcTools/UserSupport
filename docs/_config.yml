@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
-title: User Support SDC Tools
+theme: jekyll-theme-dinky
+title: SDC Tools
 logo: SDCtools2.png
 description: The place to be for support of Statistical Disclosure Control Tools
+google_analytics: UA-168851383-1
