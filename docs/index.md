@@ -1,31 +1,24 @@
 ---
 layout: default
 ---
-# UserSupport and Releases
-The place to ask for User Support on SDC tools through Issues.
 
-Information on how to get support can be found [here](https://github.com/sdcTools/UserSupport/wiki/Getting-Support)
+# News
+**June 5, 2020** <br>
+NEW RELEASE: Version 4.2.0 build 5 of &tau;-argus is now available. This version includes noise addition using the Cell Key Method for frequency count tables as well as magnitude tables.
 
-Also check out the [wiki](https://github.com/sdcTools/UserSupport/wiki) and [issues](https://github.com/sdcTools/UserSupport/issues) for more details and discussion.
-
-* * *
-NEW RELEASE
-
-Latest version 4.2.0 build 5 of tau-argus is now available. This version includes noise addition using the Cell Key Method for frequency count tables as well as magnitude tables.
-* * *
-
-## Releases can be found here:
-
-| Software | Collection of releases |    | Software | Collection of releases |
-| --- | --- | --- | --- | --- | 
-| &mu;-argus | [Mu-argus releases](https://github.com/sdcTools/muargus/releases) | | &tau;-argus | [Tau-argus releases](https://github.com/sdcTools/tauargus/releases) |
-| sdcMicro | [sdcMicro releases](https://github.com/sdcTools/sdcMicro/releases) | | sdcTable | [sdcTable releases](https://github.com/sdcTools/sdcTable/releases) |
+# UserSupport
+Check out [the wiki](https://github.com/sdcTools/UserSupport/wiki) 
+and [the issues](https://github.com/sdcTools/UserSupport/issues) 
+for more details and discussion.
 
 * * *
 
-## Information on number of downloads of the different releases can be found here:
+# Releases
 
-* [mu-argus](muargusreleases.html)
-* [tau-argus](tauargusreleases.html)
-* [sdcMicro](sdcmicroreleases.html)
-* [sdcTable](sdctablereleases.html)
+Find out about the latest releases of the tools [here](Releases.md)
+
+* * *
+
+# Statistics
+
+Find out about the download statistics of the tools [here](Statistics.md)
