@@ -15,9 +15,7 @@
   <body>
     <div class="wrapper">
 	  <header>
- 		{% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" width="150" height="150" style="border:0px"/>
- 	    {% endif %}
+        <a href="{{ site.url }}"><img src="{{site.logo | relative_url}}" alt="Logo" width="150" height="150" style="border:0px"/></a>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         <ul>
           {% if site.show_downloads %}
