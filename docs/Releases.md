@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Releases
 ---
 # You can find the collection releases on GitHub:
 

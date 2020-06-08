@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Statistics
 ---
 
 # Information on number of downloads of the different releases can be found here:
