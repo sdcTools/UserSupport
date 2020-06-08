@@ -2,4 +2,5 @@ theme: jekyll-theme-dinky
 title: SDC Tools
 logo: SDCtools2.png
 description: The place to be for support of Statistical Disclosure Control Tools
+url: https://sdctools.github.io/UserSupport/
 google_analytics: UA-168851383-1
