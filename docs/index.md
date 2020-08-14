@@ -14,7 +14,7 @@ Small issue with the latest release (4.2.0 build 5) of &tau;-argus when installe
 or
 * Replace the `ArgusLib.jar` in the `lib`-subdirectory of your &tau;-argus installation, by the one in [this zipfile](https://github.com/sdcTools/UserSupport/files/5074573/ArgusLib.zip)
 
-The next release will be able to deal with directories wit hspaces again.
+The next release will be able to deal with directories with spaces again.
 
 # UserSupport
 Check out [the wiki](https://github.com/sdcTools/UserSupport/wiki) 
