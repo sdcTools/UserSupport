@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper { width: 1100px; }
+
+/* Section - for main page content */
+section { width: 800px; float: right; padding-bottom: 50px; }
+
+p, ul, ol, dl { margin: 0 0 0px; }
