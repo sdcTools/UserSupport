@@ -5,8 +5,7 @@ title: ""
 
 # Announcement: User Meeting
 Statistical Disclosure Controll (SDC) Tool's development is dependent on knowledge of User experience and expectations. Therefore, we would like to invite Users to the first User Meeting online.<br><br>
-Registration for the User Meeting will be open until 20.01.2021 [here](UserMeetingForm.html).<br>
-* * *
+Registration for the User Meeting will be open until 20.01.2021 [here](UserMeetingForm.html).<br> <br>
 **Where**: online (zoom Link will be published for Members of the User Group on Github)<br>
 **When**: 21st January 2021 (10am-12.30pm CET)<br>
 **Tentative Agenda**:<br>
@@ -17,8 +16,7 @@ Registration for the User Meeting will be open until 20.01.2021 [here](UserMeeti
 *11:10-11:30*    - **News on Argus software**<br>
 *11:30-11:50*    - **News on R software**<br>
 *11:50-12:30*    - **Open discussion on needs and expectations**<br>
-*12:30*          - **Closing**
-* * *
+*12:30*          - **Closing**<br><br>
 Please, note that in order to sign up for the Meeting you need to be part of the User Group on Github. You can sign up for the User Group using [this form](ContactForm.html).
 
 # Request for membership User Group SDC
