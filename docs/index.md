@@ -4,7 +4,7 @@ title: ""
 ---
 
 # Announcement: User Meeting
-Statistical Disclosure Controll (SDC) Tool's development is dependent on knowledge of User experience and expectations. Therefore, we would like to invite Users to the first User Meeting online.<br><br>
+Statistical Disclosure Controll (SDC) Tool's development is dependent on knowledge of User experience and expectations. Therefore, we would like to invite Users to the first User Meeting online.<br>
 Registration for the User Meeting will be open until 20.01.2021 [here](UserMeetingForm.html).<br> <br>
 **Where**: online (zoom Link will be published for Members of the User Group on Github)<br>
 **When**: 21st January 2021 (10am-12.30pm CET)<br>
