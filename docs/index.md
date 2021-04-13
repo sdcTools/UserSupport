@@ -10,8 +10,11 @@ Then you have two options:
 - or add a comment to [this issue](https://github.com/sdcTools/UserSupport/issues/155).
 
 # News
+**April 7, 2021** <br>
+A Windows 64 bit compiled release of version [5.1.5 build 3 of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3) is now available. This version is able to deal with larger datasets when applying Targeted Record Swapping as compared to the 32 bit release.
+
 **January 22, 2021** <br>
-NEW RELEASE: Version 5.1.5 build 3 of &mu;-argus is now available. This version includes Targeted Record Swapping. The GUI for using this method is still under development, but the basic functionality of TRS is now available.
+NEW RELEASE: [Version 5.1.5 build 3 of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3) is now available. This version includes Targeted Record Swapping. The GUI for using this method is still under development, but the basic functionality of TRS is now available.
 
 **August 14, 2020** <br>
 Small issue with the latest release (4.2.0 build 5) of &tau;-argus when installed in a directory that contains spaces (e.g., `C:\Program Files (x86)`). Two possible solutions: 
