@@ -3,12 +3,14 @@ layout: default
 title: ""
 ---
 
+<a name="Membership">
 # Request for membership User Group SDC
 First make sure that you have a (free) github account. 
 Then you have two options:
 - Fill in [this form](ContactForm.html) 
 - or add a comment to [this issue](https://github.com/sdcTools/UserSupport/issues/155).
 
+<a name="News">
 # News
 **April 7, 2021** <br>
 A Windows 64 bit compiled release of version [5.1.5 build 3 of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3) is now available. This version is able to deal with larger datasets when applying Targeted Record Swapping as compared to the 32 bit release.
@@ -27,11 +29,16 @@ The next release will be able to deal with directories with spaces again.
 **June 5, 2020** <br>
 NEW RELEASE: Version 4.2.0 build 5 of &tau;-argus is now available. This version includes noise addition using the Cell Key Method for frequency count tables as well as magnitude tables.
 
+<a name="Support">
 # UserSupport
 Check out [the wiki](https://github.com/sdcTools/UserSupport/wiki) 
 and [the issues](https://github.com/sdcTools/UserSupport/issues) 
 for more details and discussion.
+
+<a name="Releases">
 # Releases
 Find out about the latest releases of the tools [here](Releases.md)
+
+<a name="Statistics">
 # Statistics
 Find out about the download statistics of the tools [here](Statistics.md)

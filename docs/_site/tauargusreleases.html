@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript">
+function showStats(data) {
+	var reponame = data[0].url.substring(data[0].url.indexOf("/sdcTools")+10,data[0].url.indexOf("/releases"));
+    var html = '';
+	
+    html += "<div class='row release'>" + "<h2>" + reponame + "</h2>";
+	html += "<table style='line-height: 25px'>";
+	html += "<tr><td><b>Release</b></td><td><b>Published</b></td>" +
+				"<td><b>File(s)</b></td><td><b>Last update</b></td><td><b># downloads</b></td></tr>";
+
+	$.each(data, function(index){
+		html += "<tr valign='top'><td>" + data[index].tag_name + "</td>";
+		html += "<td>" + data[index].published_at.split("T")[0] + "</td>";
+		html += "<td>";
+		if(data[index].assets.length != 0) {
+			$.each(data[index].assets, function(index, asset) {
+				var assetSize = (asset.size / 1048576.0).toFixed(2);
+				html += asset.name + " (" + assetSize + " MB)<br>";
+			});
+			html += "</td><td>";
+			$.each(data[index].assets, function(index, asset) {
+				html += asset.updated_at.split("T")[0] + "<br>";
+			});
+			html += "</td><td class='centertd'>";
+			$.each(data[index].assets, function(index, asset) {
+				html += asset.download_count + "<br>";
+			});
+		}
+		else{
+			html += "Only sources to download; no download info</td><td></td><td>";
+		}
+	
+		html += "</td>";
+	});
+	html += "</table>";
+
+    var resultDiv = $("#stats-result");
+    resultDiv.append(html);
+}
+</script>
+<script type="text/javascript">
+	$.getJSON("https://api.github.com/repos/sdcTools/tauargus/releases", showStats).fail(showStats);
+</script>
+
+
+<html>
+<style>
+ html {font-family: 'Roboto', sans-serif}
+ 
+ .release {
+    background-color: rgba(52, 152, 219, 0.2);
+    border: solid 1px rgba(52, 152, 219, 0.4);
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+	width: 60%;
+ }
+</style>
+<style>
+th, td {
+  text-align: left;
+  vertical-align: top;
+  padding: 5px;
+}
+
+td.centertd{
+  text-align: center;
+  vertical-align: top;	
+  padding: 5px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
+<head>
+    <title>Release Statistics via GitHub</title>
+</head>
+<body>
+<div class="container">
+	<div class="row" id="stats-result">
+	</div>
+</div>
+</body>
+</html>
