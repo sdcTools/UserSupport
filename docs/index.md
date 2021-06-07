@@ -13,7 +13,7 @@ Then you have two options:
 <a name="News">
 # News
 **June 7, 2021** <br>
-A new version of &mu;-argus [5.1.6 build 1](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3) is now available. This version contains some updates concering Targeted Record Swapping (TRS). In the report file some information on the number of (non)-swapped households and swapped recrods is included, the lay-out of the report file concerning TRS-info has changed slightly. Moreover, in the %TEMP% directory a log-file will be saved with the IDs of households for which no donor household could be found based on the used similarity variables.
+A new version of &mu;-argus [5.1.6 build 1](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3) is now available. This version contains some updates concering Targeted Record Swapping (TRS). In the report file some information on the number of (non)-swapped households and swapped records is included and the lay-out of the report file concerning TRS-info has changed slightly. Moreover, in the %TEMP% directory a log-file will be saved with the IDs of households for which no donor household could be found based on the used similarity variables.
   
 From this release onwards, only a 64 bit compiled executable of &mu;-argus will be made available.
   
