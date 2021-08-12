@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Apply for membership User Group on SDC</title>
+  <link rel="stylesheet" href="ContactForm2.css">
+</head>
+<body>
+<div class="container">
+	<form id="contact" action="https://formspree.io/f/xyylbyjy" method="POST">
+
+    <fieldset>
+      <label for="name">Full Name*:
+        <input name="name" type="text" placeholder="Enter your full name here" required>
+      </label>
+    </fieldset>
+		<fieldset>
+			<label for="githubname">Github username (if available):
+				<input name="githubname" type="text" placeholder="Enter your github username" >
+			</label>
+		</fieldset>
+		<fieldset>
+			<label for="email">Email address*:
+				<input name="email" type="text" placeholder="Enter your email address" required>
+			</label>
+		</fieldset>
+    <fieldset>
+			<label for="workarea">In which area do you work in?*:
+        <textarea name="workarea" placeholder="Please describe your field of work" required></textarea>
+			</label>
+		</fieldset>
+    <fieldset>
+      <label for="experience">Please describe your experience level in your job and with SDC (statistical disclosure control)*:
+        <textarea name="experience" placeholder="Please describe your experience level in your job and with SDC (statistical disclosure control)" required></textarea>
+      </label>
+    </fieldset>
+    <fieldset>
+      <label for="formercourse">Have you paricipated in former courses on statistical disclosure control?*: <br>
+        <input type="radio" id="Yes" name="formercourse" value="FormerCourse" required>
+        <label for="Yes"> Yes, I have participated in a former SDC course</label><br>
+        <input type="radio" id="No" name="formercourse" value="NotFormerCourse">
+        <label for="No"> No, I haven't participated in any SDC course yet</label><br>
+      </label>
+    </fieldset>
+		<fieldset>
+			<label for="Message">Comments:
+				<textarea name="Message" placeholder="Any other comments you would like to add"></textarea>
+			</label>
+		</fieldset>
+			<button type="submit">Send</button>
+		<input type="hidden" name="_next" value="https://www.nu.nl">
+		<br>
+		<br>
+		<footer>
+			<a href="https://sdctools.github.io/UserSupport/">Back to home page</a>
+		</footer>
+    </form>
+</div>
+</body>
+</html>
