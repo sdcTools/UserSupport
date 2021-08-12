@@ -6,7 +6,7 @@ title: ""
 <a name="Application Course on Business Statistics">
 # Application for Course on Tabular Data Protection in Business Statistics
 Applications for the online course on **Tabular Data Protection in Business Statistics** are now open. <br>
-The course will be held from 6th-8th Oct 2021 online.
+The course will be held from 6th-8th Oct 2021 online and a detailed description can be found in [this pdf](TabularDataProtectionBusinessStatistics.pdf).
 This course shares content with the ESTP course on Statistical Disclosure Control, which was held in early 2021, but will focus deeper on the specifics of business statistics.
 As was also the case for this year’s ESTP course on SDC, there is a limited number of spots available. Applicants that were not accepted for the ESTP course on SDC, will be given priority in this course.<br>
 Please apply for the course [**here**](ContactFormBusinessCourse.html) until 24th Sep 2021.
