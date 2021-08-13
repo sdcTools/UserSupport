@@ -2,15 +2,6 @@
 layout: default
 title: ""
 ---
-
-<a name="Application Course on Business Statistics">
-# Application for Course on Tabular Data Protection in Business Statistics
-Applications for the online course on **Tabular Data Protection in Business Statistics** are now open. <br>
-The course will be held from 6th-8th Oct 2021 online and a detailed description can be found in [this pdf](TabularDataProtectionBusinessStatistics.pdf).
-This course shares content with the ESTP course on Statistical Disclosure Control, which was held in early 2021, but will focus deeper on the specifics of business statistics.
-As was also the case for this year’s ESTP course on SDC, there is a limited number of spots available. Applicants that were not accepted for the ESTP course on SDC, will be given priority in this course.<br>
-Please apply for the course [**here**](ContactFormBusinessCourse.html) until 24th Sep 2021.
-
 <a name="Membership">
 # Request for membership User Group SDC
 First make sure that you have a (free) github account. 
@@ -20,6 +11,13 @@ Then you have two options:
 
 <a name="News">
 # News
+**August 13, 2021** <br>
+Applications for the online course on **Tabular Data Protection in Business Statistics** are now open. <br>
+The course will be held on October 6-8, 2021 online and a detailed description can be found in [this pdf](TabularDataProtectionBusinessStatistics.pdf).
+This course shares content with the ESTP course on Statistical Disclosure Control, which was held in early 2021, but will focus deeper on the specifics of business statistics.
+As was also the case for this year’s ESTP course on SDC, there is a limited number of spots available. Applicants that were not accepted for the ESTP course on SDC, will be given priority in this course.<br>
+Please apply for the course [**here**](ContactFormBusinessCourse.html) until September 24, 2021.  
+  
 **June 7, 2021** <br>
 NEW RELEASE: [Version 5.1.6 build 1  of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b1) is now available. This version contains some updates concerning Targeted Record Swapping (TRS). In the report file some information on the number of (non)-swapped households and swapped records is included and the lay-out of the report file concerning TRS-info has changed slightly. Moreover, in the `%TEMP%` directory a log-file will be saved with the IDs of households for which no donor household could be found based on the used similarity variables.
   
