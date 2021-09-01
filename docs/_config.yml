@@ -1,3 +1,4 @@
+markdown: kramdown
 theme: jekyll-theme-dinky
 title: SDC Tools
 logo: SDCtools2.png
