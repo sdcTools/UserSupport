@@ -4,10 +4,8 @@ title: ""
 ---
 <a name="Membership">
 # Request for membership User Group SDC
-First make sure that you have a (free) github account. 
-Then you have two options:
-- Fill in [this form](ContactForm.html) 
-- or add a comment to [this issue](https://github.com/sdcTools/UserSupport/issues/155).
+- Make sure that you have a (free) github account. 
+- Then fill in [this form](ContactForm.html). 
 
 <a name="News">
 # News
