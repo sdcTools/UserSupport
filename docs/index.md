@@ -4,8 +4,7 @@ title: ""
 ---
 <a name="Membership">
 # Request for membership User Group SDC
-- Make sure that you have a (free) github account. 
-- Then fill in [this form](ContactForm.html). 
+Make sure that you have a (free) GitHub account, then fill in [this form](ContactForm.html). 
 
 <a name="News">
 # News
