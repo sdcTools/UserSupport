@@ -8,6 +8,10 @@ Make sure that you have a (free) GitHub account, then fill in [this form](Contac
 
 <a name="News">
 # News
+**January 14, 2022: new build of version 5.1.6 of &mu;-argus released** <br>
+IMPORTANT NOTE:  
+&mu;-Argus version 5.1.6 build 1 sometimes did not save the report file properly. This is now fixed in build 2. Moreover, the "undo"-actions for TRS have been improved.
+This new build can be found [here](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b2).
   
 **June 7, 2021** <br>
 NEW RELEASE: [Version 5.1.6 build 1  of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b1) is now available. This version contains some updates concerning Targeted Record Swapping (TRS). In the report file some information on the number of (non)-swapped households and swapped records is included and the lay-out of the report file concerning TRS-info has changed slightly. Moreover, in the `%TEMP%` directory a log-file will be saved with the IDs of households for which no donor household could be found based on the used similarity variables.
