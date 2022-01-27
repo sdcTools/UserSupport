@@ -8,6 +8,8 @@ Make sure that you have a (free) GitHub account, then fill in [this form](Contac
 
 <a name="News">
 # News
+**The 2022 SDC User Meeting will take place online, on the 25th of February. Register [here](sdcUserMeeting2022.html)!** <br>
+  
 **January 14, 2022: new build of version 5.1.6 of &mu;-argus released** <br>
 IMPORTANT NOTE:  
 &mu;-Argus version 5.1.6 build 1 sometimes did not save the report file properly. This is now fixed in build 2. Moreover, the "undo"-actions for TRS have been improved.
