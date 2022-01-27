@@ -19,12 +19,21 @@
 				<input name="E-Mail" type="text" placeholder="Enter your email address" required>
 			</label>
 		</fieldset>
+        	<fieldset>
+        		<label for="Select">Please select whether you would like to give a short talk
+        		<select name="Select" required> 
+        			<option value="" selected="" disabled="">Select</option>
+        			<option value="Yes">Yes</option>
+        			<option value="No">No</option>
+          		</select>
+          	</fieldset>  
 		<fieldset>
-			<label for="Comment">Please specify whether you would/would not like to give a short talk or propose a discussion topic so we can contact you:
-				<textarea name="Comment" required>I will/will not propose a talk/topic ... </textarea>
+			<label for="Comment">What topic would you like to be discussed:
+				<textarea name="Comment"> </textarea>
 			</label>
 		</fieldset>
-			<button type="submit">Sign up for the 2022 SDCTools User Meeting</button>
+
+		<button type="submit">Sign up for the 2022 SDCTools User Meeting</button>
 		<input type="hidden" name="_next" value="https://www.nu.nl">
 		<br>
 		<br>
