@@ -7,7 +7,7 @@ title: ""
 Make sure that you have a (free) GitHub account, then fill in [this form](ContactForm.html). <br>
 
 # User Group meeting 2022
-The 2022 SDC User Meeting will take place online, on the 25th of February. Register [here](sdcUserMeeting2022.html)! <br>
+The 2022 SDC User Meeting will take place online, on the 25th of February. Register [here](sdcUserMeeting2022.html)! <br> no later than the 21st of Fenruary.
 
 <a name="News">
 # News
