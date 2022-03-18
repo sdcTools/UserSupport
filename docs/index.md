@@ -7,7 +7,8 @@ title: ""
 Make sure that you have a (free) GitHub account, then fill in [this form](ContactForm.html). <br>
 
 # User Group meeting 2022
-The 2022 SDC User Meeting will take place online, on the 25th of February. Register, no later than the 21st of February, [here](sdcUserMeeting2022.html)! <br>
+The 2022 SDC User Group meeting took place online on February 25. There were 36 participants from 18 different countries. There were presentations by the developers teams on the status quo of the different SDC tools, a discussion on the pros and cons of the different LP-solvers needed for some of the approaches in &tau;-argus and a presentation of a new initiative by INSEE to write an R-wrapper for &tau;-argus called `rtauargus` (see [here](https://github.com/sdcTools/rtauargus) for the sources).
+<br>
 
 <a name="News">
 # News
