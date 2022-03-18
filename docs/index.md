@@ -11,6 +11,9 @@ The 2022 SDC User Meeting will take place online, on the 25th of February. Regis
 
 <a name="News">
 # News
+**March 18, 2022** <br>
+NEW RELEASE: [Version 4.2.2 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.2.1) is now available. The main improvement in this version is in the Modular approach, where the engine was partly rewritten to improve memory management and stability. Additionally, for some instances of (sub)tables with infeasible suppression problems, &tau;-argus no longer crashes but produces an error message and will stop calculation. Additionally some bugs were fixed (spaces in directory names are now allowed, cell keys are correctly saved in CKM for frequency count tables, etc.). 
+  
 **January 14, 2022: new build of version 5.1.6 of &mu;-argus released** <br>
 IMPORTANT NOTE:  
 &mu;-Argus version 5.1.6 build 1 sometimes did not save the report file properly. This is now fixed in build 2. Moreover, the "undo"-actions for TRS have been improved.
