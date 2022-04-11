@@ -6,6 +6,20 @@ title: ""
 # Request for membership User Group SDC
 Make sure that you have a (free) GitHub account, then fill in [this form](ContactForm.html). <br>
 
+# User Group Workshop, 20th of September 2022, INSEE, Paris
+The Statistical Disclosure Control (SDC) team of the Centre of Excellence for Statistical Methods and Tools (STACE) invites you to participate in a one-day User Workshop on practical implementation of SDC in statistical production and dissemination, on the 20th of September 2022, taking place in Paris, at INSEE.
+
+The aim of the Workshop is to stimulate knowledge sharing, discussions and interactions between SDC users. You are invited to give short presentations on special problems, work in progress, interesting examples from your institute’s experience regarding SDC implementation. 
+
+You might also consider combining your attendance of the SDC Workshop with taking part in the international, research oriented, conference on Privacy in Statistical Databases 2022 which will be held during 21-23 of September in Paris (see [here](https://crises-deim.urv.cat/psd2022/index.php) for more information).
+
+More details on submissions and organization will follow soon!
+  
+- Deadlines
+- Abstract submission form
+- Registration form
+ <br>
+  
 # User Group meeting 2022
 The 2022 SDC User Group meeting took place online on February 25. There were 36 participants from 18 different countries. There were presentations by the developers teams on the status quo of the different SDC tools, a discussion on the pros and cons of the different LP-solvers needed for some of the approaches in &tau;-argus and a presentation of a new initiative by INSEE to write an R-wrapper for &tau;-argus called `rtauargus` (see [here](https://github.com/sdcTools/rtauargus) for the sources).
 <br>
