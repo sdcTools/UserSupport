@@ -16,7 +16,7 @@ You might also consider combining your attendance of the SDC Workshop with takin
 More details on submissions and organization will follow soon!
   
 - Deadlines
-- Abstract submission form
+- Abstract submission [form](AbstractForm_UserWorkshop.html)
 - Registration form
  <br>
   
