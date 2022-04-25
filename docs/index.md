@@ -20,7 +20,7 @@ More details on registration and organization will follow soon!
     - Selection results: 30-th of June 2022
     - Publishing the Workshop agenda: 15th of July 2022
 
-  -Forms
+- Forms
     - Abstract submission [form](AbstractForm_UserWorkshop.html)
     - Registration form (to follow)
  <br>
