@@ -13,14 +13,16 @@ The aim of the Workshop is to stimulate knowledge sharing, discussions and inter
 
 You might also consider combining your attendance of the SDC Workshop with taking part in the international, research oriented, conference on Privacy in Statistical Databases 2022 which will be held during 21-23 of September in Paris (see [here](https://crises-deim.urv.cat/psd2022/index.php) for more information).
 
-More details on submissions and organization will follow soon!
+More details on registration and organization will follow soon!
   
 - Deadlines
-  <space><space>*<space>Submission of abstracts: 15-th of June 2022
-  <space><space>*<space>Selection results: 30-th of June 2022
-  <space><space>*<space>Workshop agenda: 15th of July 2022
-- Abstract submission [form](AbstractForm_UserWorkshop.html)
-- Registration form (to follow)
+    - Submission of abstracts: 15-th of June 2022
+    - Selection results: 30-th of June 2022
+    - Publishing the Workshop agenda: 15th of July 2022
+
+  -Forms
+    - Abstract submission [form](AbstractForm_UserWorkshop.html)
+    - Registration form (to follow)
  <br>
   
 # User Group meeting 2022
