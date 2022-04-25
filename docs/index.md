@@ -16,8 +16,11 @@ You might also consider combining your attendance of the SDC Workshop with takin
 More details on submissions and organization will follow soon!
   
 - Deadlines
+  <space><space>*<space>Submission of abstracts: 15-th of June 2022
+  <space><space>*<space>Selection results: 30-th of June 2022
+  <space><space>*<space>Workshop agenda: 15th of July 2022
 - Abstract submission [form](AbstractForm_UserWorkshop.html)
-- Registration form
+- Registration form (to follow)
  <br>
   
 # User Group meeting 2022
