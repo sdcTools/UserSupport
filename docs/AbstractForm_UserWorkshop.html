@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Submit an abstract for the 2022 User Workshop on SDC tools</title>
+  <link rel="stylesheet" href="ContactForm.css">
+</head>
+<body>
+<div class="container">
+	<form id="contact" action="https://formspree.io/f/mayvlqbr" method="POST">
+		<fieldset>
+			<label for="githubname"> Name(required):
+				<input name="name" type="text" placeholder="Enter your name" required>
+			</label>
+		</fieldset>
+    <fieldset>
+			<label for="githubname"> Affiliation(required):
+				<input name="Affiliation" type="text" placeholder="Your affiliation" required>
+			</label>
+		</fieldset>
+		<fieldset>
+			<label for="email">Provide your email address (optional):
+				<input name="email" type="text" placeholder="Enter your email address">
+			</label>
+		</fieldset>
+		<fieldset>
+			<label for="Anstract">Message text:
+				<textarea name="Abstract" required> Short description of the work you will present at the workshop </textarea>
+			</label>
+		</fieldset>
+			<button type="submit">Send</button>
+		<input type="hidden" name="_next" value="https://www.nu.nl">
+		<br>
+		<br>
+		<footer>
+			<a href="https://sdctools.github.io/UserSupport/">Back to home page</a>
+		</footer>
+    </form>
+</div>
+</body>
+</html>
