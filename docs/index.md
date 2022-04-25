@@ -18,7 +18,7 @@ More details on registration and organization will follow soon!
 - Deadlines
     - Submission of abstracts: 15-th of June 2022
     - Selection results: 30-th of June 2022
-    - Publishing the Workshop agenda: 15th of July 2022
+    - Publishing the Workshop agenda: 15-th of July 2022
 
 - Forms
     - Abstract submission [form](AbstractForm_UserWorkshop.html)
