@@ -22,7 +22,9 @@ More details on registration and organization will follow soon!
 
 - Forms
     - Abstract submission [form](AbstractForm_UserWorkshop.html)
-    - Registration [form] (RegistrationFormWorkshop2022.html)
+    - Registration [form](RegistrationFormWorkshop2022.html)
+      Registration is mandatory for all participants due to limited attendance, first come first served, with preference for authors of presentations.
+      No registration fee will be required.
  <br>
   
 # User Group meeting 2022
