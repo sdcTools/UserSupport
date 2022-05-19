@@ -22,7 +22,7 @@ More details on registration and organization will follow soon!
 
 - Forms
     - Abstract submission [form](AbstractForm_UserWorkshop.html)
-    - Registration form (to follow)
+    - Registration [form] (RegistrationFormWorkshop2022.html)
  <br>
   
 # User Group meeting 2022
