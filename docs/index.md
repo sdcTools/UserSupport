@@ -26,13 +26,12 @@ More details on registration and organization will follow soon!
       Note that registration is mandatory for all participants due to limited attendance: first come first served, with preference for authors of presentations.
       No registration fee will be required.
  - Venue
-    INSEE
-    Room WHITE-RC-B-257 (ground floor)
-    88 avenue Verdier
-    92120 Montrouge
-    Access by Metro Line 4 (20 minutes from center of Paris) + 10 minutes walk.
+    INSEE <br>
+    Room WHITE-RC-B-257 (ground floor) <br>
+    88 avenue Verdier <br>
+    92120 Montrouge <br>
+    Access by Metro Line 4 (20 minutes from center of Paris) + 10 minutes walk. 
 
-    
  <br>
   
 # User Group meeting 2022
