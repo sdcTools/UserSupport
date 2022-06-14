@@ -26,7 +26,7 @@ More details on registration and organization will follow soon!
       Note that registration is mandatory for all participants due to limited attendance: first come first served, with preference for authors of presentations.
       No registration fee will be required.
  - Venue <br>
-    INSEE <br>
+    **INSEE** <br>
     Room WHITE-RC-B-257 (ground floor) <br>
     88 avenue Verdier <br>
     92120 Montrouge <br>
