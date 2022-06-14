@@ -13,7 +13,7 @@ The aim of the Workshop is to stimulate knowledge sharing, discussions and inter
 
 You might also consider combining your attendance of the SDC Workshop with taking part in the international, research oriented, conference on Privacy in Statistical Databases 2022 which will be held during 21-23 of September in Paris (see [here](https://crises-deim.urv.cat/psd2022/index.php) for more information).
 
-More details on registration and organization will follow soon!
+More details on registration and organization:
   
 - Deadlines
     - Submission of abstracts: **extended** to the 15-th of July 2022
@@ -28,8 +28,7 @@ More details on registration and organization will follow soon!
  - Venue <br>
     **INSEE** <br>
     Room WHITE-RC-B-257 (ground floor) <br>
-    88 avenue Verdier <br>
-    92120 Montrouge <br>
+    88 avenue Verdier, 92120 Montrouge <br>
     Access by Metro Line 4 (20 minutes from center of Paris) + 10 minutes walk. 
 
  <br>
