@@ -16,15 +16,23 @@ You might also consider combining your attendance of the SDC Workshop with takin
 More details on registration and organization will follow soon!
   
 - Deadlines
-    - Submission of abstracts: 15-th of June 2022
-    - Selection results: 30-th of June 2022
-    - Publishing the Workshop agenda: 15-th of July 2022
+    - Submission of abstracts: **extended** to the 15-th of July 2022
+    - Selection results: 31-st of July 2022
+    - Publishing the Workshop agenda: 15-th of August 2022
 
 - Forms
     - **Abstract** submission [form](AbstractForm_UserWorkshop.html)
     - **Registration** [form](RegistrationFormWorkshop2022.html) <br>
       Note that registration is mandatory for all participants due to limited attendance: first come first served, with preference for authors of presentations.
       No registration fee will be required.
+ - Venue
+    INSEE
+    Room WHITE-RC-B-257 (ground floor)
+    88 avenue Verdier
+    92120 Montrouge
+    Access by Metro Line 4 (20 minutes from center of Paris) + 10 minutes walk.
+
+    
  <br>
   
 # User Group meeting 2022
