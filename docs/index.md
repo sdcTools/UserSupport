@@ -16,17 +16,17 @@ You might also consider combining your attendance of the SDC Workshop with takin
 More details on registration and organization:
   
 - Deadlines
-    - Submission of abstracts: **extended** to the 15-th of July 2022
+    - Submission of abstracts: extended to the 15-th of July 2022
     - Selection results: 31-st of July 2022
     - Publishing the Workshop agenda: 15-th of August 2022
 
 - Forms
-    - **Abstract** submission - *Closed*
-    - **Registration** - *Closed*
+    - Abstract submission - *Closed*
+    - Registration - *Closed*
  
- - List of accepted abstracts [pdf](Abstracts_W2022.pdf)
+ - List of accepted **abstracts** [pdf](Abstracts_W2022.pdf)
   
- - Preliminary Agenda [pdf](draft_agenda_W2022.pdf)
+ - Preliminary **agenda** [pdf](draft_agenda_W2022.pdf)
   
  - Venue <br>
     **INSEE** <br>
