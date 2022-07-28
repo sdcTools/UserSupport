@@ -21,10 +21,15 @@ More details on registration and organization:
     - Publishing the Workshop agenda: 15-th of August 2022
 
 - Forms
-    - **Abstract** submission [form](AbstractForm_UserWorkshop.html)
+    - **Abstract** submission [form](AbstractForm_UserWorkshop.html). *Closed*.
     - **Registration** [form](RegistrationFormWorkshop2022.html) <br>
       Note that registration is mandatory for all participants due to limited attendance: first come first served, with preference for authors of presentations.
-      No registration fee will be required.
+      No registration fee will be required. *Closed*.
+ 
+ - List of accepted abstracts [pdf](Abstracts_W2022.pdf)
+  
+ - Preliminary Agenda [pdf](draft_agenda_W2022.pdf)
+  
  - Venue <br>
     **INSEE** <br>
     Room WHITE-RC-B-257 (ground floor) <br>
