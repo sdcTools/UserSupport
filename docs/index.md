@@ -26,7 +26,9 @@ More details on registration and organization:
  
  - List of accepted **abstracts** [pdf](Abstracts_W2022.pdf)
   
- - Preliminary **agenda** [pdf](draft_agenda_W2022.pdf)
+ - **Agenda** [pdf](draft_agenda_W2022.pdf)
+  
+ - **Slides** [pdf-files](https://github.com/sdcTools/UserSupport/blob/master/docs/W2022/W2022slides.md)
   
  - Venue <br>
     **INSEE** <br>
