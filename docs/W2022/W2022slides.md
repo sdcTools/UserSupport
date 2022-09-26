@@ -14,3 +14,4 @@
 
 [S2_P5_01](https://github.com/sdcTools/UserSupport/blob/master/docs/W2022/S2_P5_01_Haraldsson_SDC%20methods%20for%20wage%20data%20explorer.pdf)
 
+[Discussion points](https://github.com/sdcTools/UserSupport/blob/master/docs/W2022/Discussion_points.pdf)
