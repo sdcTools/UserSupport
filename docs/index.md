@@ -28,7 +28,7 @@ More details on registration and organization:
   
  - **Agenda** [pdf](draft_agenda_W2022.pdf)
   
- - **Slides** [pdf-files](https://github.com/sdcTools/UserSupport/blob/master/docs/W2022/W2022slides.md)
+ - **Slides of presentations** [pdf-files](https://github.com/sdcTools/UserSupport/blob/master/docs/W2022/)
   
  - Venue <br>
     **INSEE** <br>
