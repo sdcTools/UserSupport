@@ -6,6 +6,10 @@ title: ""
 # Request for membership User Group SDC
 Make sure that you have a (free) GitHub account, then fill in [this form](ContactForm.html). <br>
 
+# User Group meeting 2023
+The 2023 User Group meeting will take place online on February 23. You are invited to register using this [form](sdcUserMeeting2023.html)!
+<br>  
+  
 # User Group Workshop, September 20, 2022, Paris
 The Statistical Disclosure Control (SDC) team of the Centre of Excellence for Statistical Methods and Tools (STACE) invites you to participate in a one-day User Workshop on practical implementation of SDC in statistical production and dissemination, on the 20th of September 2022, taking place in Paris, at INSEE.
 
