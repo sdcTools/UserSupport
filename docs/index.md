@@ -7,7 +7,7 @@ title: ""
 Make sure that you have a (free) GitHub account, then fill in [this membership form](ContactForm.html). <br>
 
 # User Group meeting 2023
-The 2023 User Group meeting will take place online on February the 23-rd. You are invited to register using this [form](sdcUserMeeting2023.html)!
+The 2023 User Group meeting will take place online on February the 23-rd. You are invited to register using this [2023 USER MEETING FORM](sdcUserMeeting2023.html)!
   
 The meeting link and agenda will follow in due course.
 <br>  
