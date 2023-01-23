@@ -47,7 +47,7 @@ More details on registration and organization:
  <br>
   
 # User Group meeting 2022
-The 2022 SDC User Group meeting took place online on February 25. There were 36 participants from 18 different countries. There were presentations by the developers teams on the status quo of the different SDC tools, a discussion on the pros and cons of the different LP-solvers needed for some of the approaches in &tau;-argus and a presentation of a new initiative by INSEE to write an R-wrapper for &tau;-argus called `rtauargus` (see [here](https://github.com/sdcTools/rtauargus) for the sources).
+The 2022 SDC User Group meeting took place online on February 25. There were 36 participants from 18 different countries. There were presentations by the developers teams on the status quo of the different SDC tools, a discussion on the pros and cons of the different LP-solvers needed for some of the approaches in &tau;-argus (see [slides](https://github.com/sdcTools/UserMeetings/tree/master/User%20Group%20Meeting%20%232%20-%2025.02.22)) and a presentation of a new initiative by INSEE to write an R-wrapper for &tau;-argus called `rtauargus` (see [here](https://github.com/sdcTools/rtauargus) for the sources).
 <br>
 
 <a name="News">
