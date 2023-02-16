@@ -9,9 +9,9 @@ Make sure that you have a (free) GitHub account, then fill in [this membership f
 # User Group meeting 2023
 The 2023 User Group meeting will take place online, 10:00 - 12:30 C.E.T.,  on February the 23-rd. 
 
-You are invited to register using this [2023 USER MEETING FORM](sdcUserMeeting2023.html)!
+You are invited to register using this [2023 User Meeting Form](sdcUserMeeting2023.html)!
   
-The meeting link and agenda will follow in due course.
+The meeting link will be sent by email to the registered participants and the preliminary agenda is already available [here](https://github.com/sdcTools/UserSupport/blob/master/docs/W2023/Preliminary_agenda.pdf).
 <br>  
   
 # User Group Workshop, September 20, 2022, Paris
