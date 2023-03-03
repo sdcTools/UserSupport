@@ -13,7 +13,7 @@ Make sure that you have a (free) GitHub account, then fill in [this membership f
   _May 23, 2023, online_
   
  - Invitation
- - [Registration form](https://github.com/sdcTools/UserSupport/blob/master/docs/SDCWorkshopCensus2023.html)
+ - [Registration form](SDCWorkshopCensus2023.html)
  - Deadline
  - Agenda 
   
