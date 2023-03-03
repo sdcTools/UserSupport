@@ -51,7 +51,9 @@ The 2022 SDC User Group meeting took place online on February 25. There were 36 
 <br>
 
 <a name="News">
+  
 # News
+  
 **July 29, 2022** <br>
 NEW RELEASE: [Version 4.2.3 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.3) is now available. The main change is that it is now possible to use the improved ptables produced by the [ptable R package](https://github.com/sdcTools/ptable) (version 0.4.0 and higher). This is important for users of CKM for frequency count tables of the census 2021.
   
