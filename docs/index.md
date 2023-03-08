@@ -2,13 +2,11 @@
 layout: default
 title: ""
 ---
-<a name="Membership">
-# Request for membership User Group SDC
-Make sure that you have a (free) GitHub account, then fill in [this membership form](ContactForm.html). <br>
-
-<br>
  
-# Workshop on Statistical Disclosure Control of Census-data 
+<a name="Events"> 
+# Events 
+ 
+## Workshop on Statistical Disclosure Control of Census-data 
   
   _May 23, 2023, online_
   
@@ -17,17 +15,13 @@ Make sure that you have a (free) GitHub account, then fill in [this membership f
  - Deadline
  - Agenda 
   
-<br>
-  
-# User Group meeting 2023
+## User Group meeting 2023
 The 2023 User Group meeting took place online, 10:00 - 12:30 C.E.T.,  on February the 23-rd. 
   
 The meeting agenda and the slides of the presentations, as well as the minutes of the meeting are available [here](https://github.com/sdcTools/UserMeetings/tree/master/User%20Group%20Meeting%20%233).
 There were 35 participants and five presentations concerning both the status/progress of the sdc-tools presented by developers and several practical solutions/applications presented by users. 
   
-<br>  
-  
-# User Group Workshop 2022
+## User Group Workshop 2022
  
 _September 20, Paris_
  
@@ -59,15 +53,15 @@ More details on registration and organization:
     Room WHITE-RC-B-257 (ground floor) <br>
     88 avenue Verdier, 92120 Montrouge <br>
     Access by Metro Line 4 (20 minutes from center of Paris) + 10 minutes walk. 
-
  <br>
   
-# User Group meeting 2022
+## User Group meeting 2022
 The 2022 SDC User Group meeting took place online on February 25. There were 36 participants from 18 different countries. There were presentations by the developers teams on the status quo of the different SDC tools, a discussion on the pros and cons of the different LP-solvers needed for some of the approaches in &tau;-argus (see [slides](https://github.com/sdcTools/UserMeetings/tree/master/User%20Group%20Meeting%20%232%20-%2025.02.22)) and a presentation of a new initiative by INSEE to write an R-wrapper for &tau;-argus called `rtauargus` (see [here](https://github.com/sdcTools/rtauargus) for the sources).
+
 <br>
 
+
 <a name="News">
-  
 # News
   
 **July 29, 2022** <br>
@@ -105,16 +99,25 @@ The next release will be able to deal with directories with spaces again.
 **June 5, 2020** <br>
 NEW RELEASE: Version 4.2.0 build 5 of &tau;-argus is now available. This version includes noise addition using the Cell Key Method for frequency count tables as well as magnitude tables.
 
+<br>
+
 <a name="Support">
 # UserSupport
 Check out [the wiki](https://github.com/sdcTools/UserSupport/wiki) 
 and [the issues](https://github.com/sdcTools/UserSupport/issues) 
 for more details and discussion.
 
+Have a look at [the FAQ](https://github.com/sdcTools/UserSupport/wiki/FAQ) for frequently asked questions.
+
+<br>
+
 <a name="Releases">
 # Releases
 Find out about the latest releases of the tools [here](Releases.md)
 
+<br>
+
 <a name="Statistics">
 # Statistics
 Find out about the download statistics of the tools [here](Statistics.md)
+<br>

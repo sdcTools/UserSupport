@@ -1,6 +1,9 @@
 markdown: kramdown
-theme: jekyll-theme-dinky
 title: SDC Tools
 logo: SDCtools2.png
 description: User Support for Statistical Disclosure Control Tools
 url: https://sdctools.github.io/UserSupport/
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+ - jekyll-remote-theme

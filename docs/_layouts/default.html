@@ -1,36 +1,46 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
 {% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
-	<header>
-        <a href="{{ site.url }}"><img src="{{site.logo}}" alt="Logo" width="100" height="100" style="border:0px;padding-left:50px"/></a>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-      	<div style="background:#303030; position:relative; left:-10px; top:10px; width:195px; padding:10px 10px 5px 10px; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
+      <header>
+		<a href="{{ site.url }}"><img src="{{site.logo}}" alt="Logo" width="120" height="120" style="border:0px;padding-left:40px"/></a>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+		<p></p>
+      	<div style="position:relative; left:-10px; top:10px; width:195px; padding:10px 10px 5px 10px; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px;">
 		{% include_relative gotos.html %}
+		<p></p>
+		
+		<a href=ContactForm><kbd>Apply for membership<br>User Group SDC</kbd></a>
+		
   	</div>
 
-        <p><small><br>This project is maintained by 
-		<a class="buttons header name github" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-	</header>
-	    
-	<section>
-          {{ content }}
-        </section>
-  
-	    <footer>
-          <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-        </footer>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+
+        <p class="view"><small><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></small></p>
+		
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
     </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
