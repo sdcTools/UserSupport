@@ -22,37 +22,15 @@ The meeting agenda and the slides of the presentations, as well as the minutes o
 There were 35 participants and five presentations concerning both the status/progress of the sdc-tools presented by developers and several practical solutions/applications presented by users. 
   
 ## User Group Workshop 2022
+
+On September 20, 2022, a SDC Useer Group Workshop took place in Paris, at INSEE. Being a hybrid meeting, it was also possible to attend the workshop online. The workshop concentrated on practical implementations of SDC in statistical production and dissemination. There were 7 presentations given by different users coming from France, Germany, Ireland, Norway, Poland and Iceland. More details can be found here: 
  
-_September 20, Paris_
- 
-The Statistical Disclosure Control (SDC) team of the Centre of Excellence for Statistical Methods and Tools (STACE) invites you to participate in a one-day User Workshop on practical implementation of SDC in statistical production and dissemination, on the 20th of September 2022, taking place in Paris, at INSEE.
-
-The aim of the Workshop is to stimulate knowledge sharing, discussions and interactions between SDC users. You are invited to give short presentations on special problems, work in progress, interesting examples from your institute’s experience regarding SDC implementation. 
-
-You might also consider combining your attendance of the SDC Workshop with taking part in the international, research oriented, conference on Privacy in Statistical Databases 2022 which will be held during 21-23 of September in Paris (see [here](https://crises-deim.urv.cat/psd2022/index.php) for more information).
-
-More details on registration and organization:
+ - [**List of accepted abstracts** (pdf)](Abstracts_W2022.pdf)
   
-- Deadlines
-    - Submission of abstracts: extended to the 15-th of July 2022
-    - Selection results: 31-st of July 2022
-    - Publishing the Workshop agenda: 15-th of August 2022
-
-- Forms
-    - Abstract submission - *Closed*
-    - Registration - *Closed*
- 
- - List of accepted **abstracts** [pdf](Abstracts_W2022.pdf)
+ - [**Agenda** (pdf)](draft_agenda_W2022.pdf)
   
- - **Agenda** [pdf](draft_agenda_W2022.pdf)
+ - [**Slides of presentations** (pdf)](https://github.com/sdcTools/UserSupport/blob/master/docs/W2022/)
   
- - **Slides of presentations** [pdf-files](https://github.com/sdcTools/UserSupport/blob/master/docs/W2022/)
-  
- - Venue <br>
-    **INSEE** <br>
-    Room WHITE-RC-B-257 (ground floor) <br>
-    88 avenue Verdier, 92120 Montrouge <br>
-    Access by Metro Line 4 (20 minutes from center of Paris) + 10 minutes walk. 
  <br>
   
 ## User Group meeting 2022
