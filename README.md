@@ -1,3 +1,8 @@
+<!-- badges: start -->
+[![GitHub last
+commit](https://img.shields.io/github/last-commit/sdcTools/UserSupport.svg?logo=github)](https://github.com/sdcTools/UserSupport/commits/master)
+<!-- badges: end -->
+
 # UserSupport and Releases
 The place to ask for User Support on SDC tools through Issues.
 
