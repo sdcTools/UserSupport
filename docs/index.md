@@ -33,6 +33,18 @@ The 2022 SDC User Group meeting took place online on February 25. There were 36 
 
 <a name="News">
 # News
+
+**March 10, 2023** <br>
+NEW TEST RELEASE: A new release for testing is uploaded: [&tau;-argus version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST).
+The main new features to be tested are:
+- Save and read recode files, including recode files for tree-based hierarchical variables
+- Keep status (optionally) with tabular input made additive
+
+Additional information on the new features can be found in the `Version history` section of the `ReleasenoteTauArgus4.2.4.pdf`.
+
+Obviously, other tests are welcome as well, e.g. making sure that older features are still working as before.
+
+Feedback is welcome until Marh 25. I intend to make the release official on April 1.
   
 **July 29, 2022** <br>
 NEW RELEASE: [Version 4.2.3 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.3) is now available. The main change is that it is now possible to use the improved ptables produced by the [ptable R package](https://github.com/sdcTools/ptable) (version 0.4.0 and higher). This is important for users of CKM for frequency count tables of the census 2021.
