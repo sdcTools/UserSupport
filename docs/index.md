@@ -2,8 +2,8 @@
 layout: default
 title: ""
 ---
- 
-# [Latest News: New test release &tau;-argus 4.2.4](#News)
+
+# <img src="Info.png" style="float: left; margin-right: 10px; width: 30px" />[New test release &tau;-argus 4.2.4](#News)
  
 <a name="Events"> 
 # Events 
