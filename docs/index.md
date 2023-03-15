@@ -6,15 +6,16 @@ title: ""
 # <img src="Info.png" style="float: left; margin-right: 10px; width: 30px" />[New test release &tau;-argus 4.2.4](#News)
  
 <a name="Events"> 
+ 
 # Upcoming event
 
 ## Workshop on Statistical Disclosure Control of Census-data 
   
   _May 23, 2023, online_
   
- - Invitation
+ - [Invitation](WCensusSDC2023/Invitation_SDC_Census_Workshop.pdf)
  - [Registration form](SDCWorkshopCensus2023.html)
- - Deadline
+ - Deadline for registration/abstract submission: _14-th of April_
  - Agenda 
 
 # Previous Events
