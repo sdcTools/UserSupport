@@ -36,6 +36,9 @@ The 2022 SDC User Group meeting took place online on February 25. There were 36 
 <a name="News">
 # News
 
+**March 15, 2023**<br> 
+The R-packages `ptable` and `cellKey` are now officially available on CRAN. The official releases of these packages will henceforth be made available not only from the GitHub repositories on [sdcTools](https://github.com/sdcTools), but also from CRAN: [ptable](https://cran.r-project.org/web/packages/ptable) and [cellKey](https://cran.r-project.org/web/packages/cellKey). Developers versions of the packages will still only be available through the GitHub repositories on [sdcTools](https://github.com/sdcTools).
+ 
 **March 10, 2023** <br>
 NEW TEST RELEASE: A new release for testing is uploaded: [&tau;-argus version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST).
 The main new features to be tested are:
