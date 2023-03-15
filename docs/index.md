@@ -19,8 +19,8 @@ title: ""
 
 # Previous Events
 An overview of events organized by the UserSupport on SDCTools group can be found [here](PreviousEvents.md).
+ 
 <br>
-
 
 <a name="News">
 # News
