@@ -100,4 +100,4 @@ Find out about the download statistics of the tools [here](Statistics.md)
 <br>
  
  
- [Testing Forms](https://github.com/sdcTools/UserSupport/blob/master/docs/testForm.html)
+ [Testing Forms](testForm.html)
