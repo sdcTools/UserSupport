@@ -99,5 +99,3 @@ Find out about the latest releases of the tools [here](Releases.md)
 Find out about the download statistics of the tools [here](Statistics.md)
 <br>
  
- 
- [Testing Forms](testForm.html)
