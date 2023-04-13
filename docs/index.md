@@ -26,7 +26,7 @@ An overview of events organized by the UserSupport on SDCTools group can be foun
 <a name="News">
 # News
 
-** April 14, 2023**<br>
+**April 14, 2023**<br>
 Thanks to the testing of the [&tau;-argus TEST version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST) by Vito Klop&#269;i&#269;, a bug was found that needed to be fixed before officially releasing this version. As a result, the official release did not take place on April 1, 2023 (as intended), but will take place in the week of April 24, 2023.
  
 **March 15, 2023**<br> 
