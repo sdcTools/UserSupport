@@ -14,8 +14,7 @@ title: ""
   _May 23, 2023, online_
   
  - [Invitation](WCensusSDC2023/Invitation_SDC_Census_Workshop.pdf)
- - [Registration form](SDCWorkshopCensus2023.html)
- - Deadline for registration/abstract submission: _14-th of April_
+ - Registration:  closed
  - Agenda 
 
 # Previous Events
