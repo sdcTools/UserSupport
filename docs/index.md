@@ -3,7 +3,7 @@ layout: default
 title: ""
 ---
 
-# <img src="Info.png" style="float: left; margin-right: 10px; width: 30px" />[New test release &tau;-argus 4.2.4](#News)
+# <img src="Info.png" style="float: left; margin-right: 10px; width: 30px" />[New official release &tau;-argus 4.2.4 build 2](#News)
  
 <a name="Events"> 
  
@@ -25,6 +25,9 @@ An overview of events organized by the UserSupport on SDCTools group can be foun
 <a name="News">
 # News
 
+**April 26, 2023**<br>
+The official release of [&tau;-argus version 4.2.4 (build 2)](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4.1) is now available. the bugs found by Vito Klop&#269;i&#269; are fixed. 
+ 
 **April 14, 2023**<br>
 Thanks to the testing of the [&tau;-argus TEST version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST) by Vito Klop&#269;i&#269;, a bug was found that needed to be fixed before officially releasing this version. As a result, the official release did not take place on April 1, 2023 (as intended), but will take place in the week of April 24, 2023.
  
