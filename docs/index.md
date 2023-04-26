@@ -3,7 +3,7 @@ layout: default
 title: ""
 ---
 
-# <img src="Info.png" style="float: left; margin-right: 10px; width: 30px" />[New official release &tau;-argus 4.2.4 build 2](#News)
+# <img src="Info.png" style="float: left; margin-right: 10px; width: 30px" />[New official release &tau;-argus](#News)
  
 <a name="Events"> 
  
