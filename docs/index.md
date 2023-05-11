@@ -32,7 +32,7 @@ The official release of [&tau;-argus version 4.2.4 (build 2)](https://github.com
 Thanks to the testing of the [&tau;-argus TEST version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST){:target="_blank"} by Vito Klop&#269;i&#269;, a bug was found that needed to be fixed before officially releasing this version. As a result, the official release did not take place on April 1, 2023 (as intended), but will take place in the week of April 24, 2023.
  
 **March 15, 2023**<br> 
-The R-packages `ptable` and `cellKey` are now officially available on CRAN. The official releases of these packages will henceforth be made available not only from the GitHub repositories on [sdcTools](https://github.com/sdcTools), but also from CRAN: [ptable](https://cran.r-project.org/web/packages/ptable) and [cellKey](https://cran.r-project.org/web/packages/cellKey). Developers versions of the packages will still only be available through the GitHub repositories on [sdcTools](https://github.com/sdcTools).
+The R-packages `ptable` and `cellKey` are now officially available on CRAN. The official releases of these packages will henceforth be made available not only from the GitHub repositories on [sdcTools](https://github.com/sdcTools){:target="_blank"}, but also from CRAN: [ptable](https://cran.r-project.org/web/packages/ptable){:target="_blank"} and [cellKey](https://cran.r-project.org/web/packages/cellKey){:target="_blank"}. Developers versions of the packages will still only be available through the GitHub repositories on [sdcTools](https://github.com/sdcTools){:target="_blank"}.
  
 **March 10, 2023** <br>
 NEW TEST RELEASE: A new release for testing is uploaded: [&tau;-argus version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST){:target="_blank"}.
@@ -47,12 +47,12 @@ Obviously, other tests are welcome as well, e.g. making sure that older features
 Feedback is welcome until Marh 25. I intend to make the release official on April 1.
   
 **July 29, 2022** <br>
-NEW RELEASE: [Version 4.2.3 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.3){:target="_blank"} is now available. The main change is that it is now possible to use the improved ptables produced by the [ptable R package](https://github.com/sdcTools/ptable) (version 0.4.0 and higher). This is important for users of CKM for frequency count tables of the census 2021.
+NEW RELEASE: [Version 4.2.3 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.3){:target="_blank"} is now available. The main change is that it is now possible to use the improved ptables produced by the [ptable R package](https://github.com/sdcTools/ptable){:target="_blank"} (version 0.4.0 and higher). This is important for users of CKM for frequency count tables of the census 2021.
   
 Note that previous versions of &tau;-argus (version 4.2.2 and lower) will apply the new ptables incorrectly without issuing a warning!
   
 **March 18, 2022** <br>
-NEW RELEASE: [Version 4.2.2 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.2.1) is now available. The main improvement in this version is in the Modular approach, where the engine was partly rewritten to improve memory management and stability. Additionally, for some instances of (sub)tables with infeasible suppression problems, &tau;-argus no longer crashes but produces an error message and will stop calculation. Additionally some bugs were fixed (spaces in directory names are now allowed, cell keys are correctly saved in CKM for frequency count tables, etc.). 
+NEW RELEASE: [Version 4.2.2 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.2.1){:target="_blank"} is now available. The main improvement in this version is in the Modular approach, where the engine was partly rewritten to improve memory management and stability. Additionally, for some instances of (sub)tables with infeasible suppression problems, &tau;-argus no longer crashes but produces an error message and will stop calculation. Additionally some bugs were fixed (spaces in directory names are now allowed, cell keys are correctly saved in CKM for frequency count tables, etc.). 
   
 **January 14, 2022: new build of version 5.1.6 of &mu;-argus released** <br>
 IMPORTANT NOTE:  
@@ -60,7 +60,7 @@ IMPORTANT NOTE:
 This new build can be found [here](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b2){:target="_blank"}.
   
 **June 7, 2021** <br>
-NEW RELEASE: [Version 5.1.6 build 1  of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b1) is now available. This version contains some updates concerning Targeted Record Swapping (TRS). In the report file some information on the number of (non)-swapped households and swapped records is included and the lay-out of the report file concerning TRS-info has changed slightly. Moreover, in the `%TEMP%` directory a log-file will be saved with the IDs of households for which no donor household could be found based on the used similarity variables.
+NEW RELEASE: [Version 5.1.6 build 1  of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b1){:target="_blank"} is now available. This version contains some updates concerning Targeted Record Swapping (TRS). In the report file some information on the number of (non)-swapped households and swapped records is included and the lay-out of the report file concerning TRS-info has changed slightly. Moreover, in the `%TEMP%` directory a log-file will be saved with the IDs of households for which no donor household could be found based on the used similarity variables.
   
 From this release onwards, only a 64 bit compiled executable of &mu;-argus will be made available.
   
