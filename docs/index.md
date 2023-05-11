@@ -15,7 +15,7 @@ title: ""
   
  - [Invitation](WCensusSDC2023/Invitation_SDC_Census_Workshop.pdf)
  - Registration:  closed
- - Agenda 
+ - [Agenda](WCensusSDC2023/Agenda_WorkshopCensusSDC2023.pdf)
 
 # Previous Events
 An overview of events organized by the UserSupport on SDCTools group can be found [here](PreviousEvents.md).
