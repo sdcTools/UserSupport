@@ -7,15 +7,6 @@ title: ""
  
 <a name="Events"> 
  
-# Upcoming event
-
-## Workshop on Statistical Disclosure Control of Census-data 
-  
-  _May 23, 2023, online_
-  
- - [Invitation](WCensusSDC2023/Invitation_SDC_Census_Workshop.pdf){:target="_blank"}
- - Registration:  closed
- - [Agenda](WCensusSDC2023/Agenda_WorkshopCensusSDC2023.pdf){:target="_blank"}
 
 # Previous Events
 An overview of events organized by the UserSupport on SDCTools group can be found [here](PreviousEvents.md).
@@ -23,6 +14,8 @@ An overview of events organized by the UserSupport on SDCTools group can be foun
 <br>
 
 <a name="News">
+
+ 
 # News
 
 **April 26, 2023**<br>
