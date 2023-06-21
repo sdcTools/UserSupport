@@ -1,5 +1,11 @@
 # Overview of previous events
 
+## Workshop on Statistical Disclosure Control of Census-data, 2023
+It took place online, on the 23-rd of May 2023, had 54 registered participants and was dedicated to recent progress in Census-data protection.
+The aim of the workshop was to share knowledge and experience on topics like: (i) the status of Census grid data protection (ii) plans for the Census hypercube data protection (iii) coordination of Census and population data protection (iv) feedback from data users in countries where SDC methods have been employed while releasing Census statistics.
+The [programme](WCensusSDC2023/Agenda_WorkshopCensusSDC2023.pdf) included: one introductory talk, five presentations regarding Census data protection in five different NSIs, one concluding talk and one poll created by the SDC-experts and disseminated to all NSIs of the ESS.
+
+
 ## User Group meeting 2023
 The 2023 User Group meeting took place online, 10:00 - 12:30 C.E.T.,  on February the 23-rd. 
   
