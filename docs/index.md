@@ -14,7 +14,7 @@ This meeting is not directly organized by the UserSupport on SDCTools group, but
 
 Date: 26-28 September 2023<br>
 Venue: HochSchule RheinMain, Germany<br>
-Meeting website: http://indico.un.org/event/1002843
+Meeting website: [http://indico.un.org/event/1002843](http://indico.un.org/event/1002843)
 
 <br>
  
