@@ -7,7 +7,15 @@ title: ""
  
 <a name="Events"> 
  
+# Upcoming event
 
+## UNECE Expert meeting on Statistical Data Confidentiality 2023<br>
+_26-28 September 2023_<br>
+Venue: HochSchule RheinMain, Germany<br>
+Meeting website: http://indico.un.org/event/1002843
+
+<br>
+ 
 # Previous Events
 An overview of events organized by the UserSupport on SDCTools group can be found [here](PreviousEvents.md).
  
