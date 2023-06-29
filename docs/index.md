@@ -14,14 +14,14 @@ This meeting is not directly organized by the UserSupport on SDCTools group, but
 
 Date: 26-28 September 2023<br>
 Venue: HochSchule RheinMain, Germany<br>
-Meeting website: [http://indico.un.org/event/1002843](http://indico.un.org/event/1002843)
+Meeting website: [http://indico.un.org/event/1002843](http://indico.un.org/event/1002843){:target="_blank"}
 
 <br>
 
 ## A Joint Workshop on Time Series Analysis and Statistical Disclosure Control Methods for Official Statistics<br>
 Date: 14-15 December 14-15, 2023<br>
 Venue: OECD Boulogne (Paris), France<br>
-For more information see [2023-12-14 STACE Workshop - Call for Papers (pdf)](2023-12-14_STACE_Workshop_-_Call_for_Papers.pdf)<br>
+For more information see [2023-12-14 STACE Workshop - Call for Papers (pdf)](2023-12-14_STACE_Workshop_-_Call_for_Papers.pdf){:target="_blank"}<br>
 
 It will be a "mixed meeting", both presential and distancial. Participation is free but registration is compulsory. <br>
 
