@@ -1,5 +1,12 @@
 # Overview of previous events
 
+## Joint Workshop on Time Series Analysis and Statistical Disclosure Control Methods for Official Statistics <br>
+14-15 December, 2023, OECD Boulogne (Paris), France<br>
+For more information see [2023-12-14 STACE Workshop - Call for Papers (pdf)](2023-12-14_STACE_Workshop_-_Call_for_Papers.pdf)<br>
+
+It has been a hybrid meeting, both presential and distancial.  <br>
+
+
 ## UNECE Expert meeting on Statistical Data Confidentiality, 2023
 This meeting was not directly organized by the UserSupport on SDCTools group, but highly recommended and many of the team members have attended. It took place during 26-28 September 2023 at HochSchule RheinMain, Germany. More information is available on the meeting website: [http://indico.un.org/event/1002843](http://indico.un.org/event/1002843)
 
