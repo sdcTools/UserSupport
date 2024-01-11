@@ -9,6 +9,8 @@ title: ""
  
 # Events
 
+<br>
+
 ## Upcoming events
 
 ### User Group meeting 2024<br>
@@ -19,7 +21,7 @@ More information: soon!<br>
 <br>
  
 ## Previous events
-An overview of events organized by the UserSupport on SDCTools group can be found [here](PreviousEvents.md).
+An overview of events organized by the UserSupport on SDC-Tools group can be found [here](PreviousEvents.md).
  
 <br>
 
