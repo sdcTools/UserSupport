@@ -1,7 +1,7 @@
 # Overview of previous events
 
 ## Joint Workshop on Time Series Analysis and Statistical Disclosure Control Methods for Official Statistics <br>
-It took place during 14-15 December, 2023 at OECD Boulogne (Paris), France<br>
+It took place during 14-15 December, 2023 at OECD-Boulogne (Paris), France.<br>
 The agenda may be found [here](agendaParis_dec2023.pdf).
 The meeting has been hybrid, both presential and distancial.  <br>
 
