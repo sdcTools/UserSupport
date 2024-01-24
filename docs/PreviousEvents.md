@@ -1,10 +1,9 @@
 # Overview of previous events
 
 ## Joint Workshop on Time Series Analysis and Statistical Disclosure Control Methods for Official Statistics <br>
-14-15 December, 2023, OECD Boulogne (Paris), France<br>
-For more information see [2023-12-14 STACE Workshop - Call for Papers (pdf)](2023-12-14_STACE_Workshop_-_Call_for_Papers.pdf)<br>
-
-It has been a hybrid meeting, both presential and distancial.  <br>
+It took place during 14-15 December, 2023 at OECD Boulogne (Paris), France<br>
+The agenda may be found [here](agendaParis_dec2023.pdf).
+The meeting has been hybrid, both presential and distancial.  <br>
 
 
 ## UNECE Expert meeting on Statistical Data Confidentiality, 2023
