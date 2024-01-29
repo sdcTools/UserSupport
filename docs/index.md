@@ -12,9 +12,10 @@ title: ""
 ## Upcoming events
 
 ### User Group meeting 2024<br>
-Date: end of February, 2024<br>
-Online <br>
-More information: soon!<br>
+Date: 29-th of February, 2024<br>
+__[Registration form](sdcUserMeeting2024.html)__ <br>
+Online (the meeting link will be sent to participants by email in due time) <br>
+Agenda <br>
 
 ## Previous events
 An overview of events organized by the UserSupport on SDC-Tools group can be found __[here](PreviousEvents.md)__.
