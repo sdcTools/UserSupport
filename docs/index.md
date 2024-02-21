@@ -15,7 +15,7 @@ title: ""
 Date: 29-th of February, 2024<br>
 __[Registration form](sdcUserMeeting2024.html)__ <br>
 Place and time: online, 10:00-12:15 C.E.T., 29.02.2024 (the meeting link will be sent to registered participants by email) <br>
-[Preliminary Agenda](W2024/agenda_sdc_UG2024.pdf) <br>
+_[Preliminary Agenda](W2024/agenda_sdc_UG2024.pdf)_ <br>
 
 ## Previous events
 An overview of events organized by the UserSupport on SDC-Tools group can be found __[here](PreviousEvents.md)__.
