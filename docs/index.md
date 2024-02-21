@@ -14,7 +14,8 @@ title: ""
 ### User Group meeting 2024<br>
 Date: 29-th of February, 2024<br>
 __[Registration form](sdcUserMeeting2024.html)__ <br>
-Place and time: online, 10:00-12:15 C.E.T., 29.02.2024 (the meeting link will be sent to registered participants by email) <br>
+Place and time: online, 10:00-12:15 C.E.T., 29.02.2024 <br>
+The meeting link will be sent to registered participants by email <br>
 _[Preliminary Agenda](W2024/agenda_sdc_UG2024.pdf)_ <br>
 
 ## Previous events
