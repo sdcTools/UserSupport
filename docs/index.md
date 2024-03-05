@@ -14,7 +14,7 @@ title: ""
 ### User Group meeting 2024<br>
 Date: 29-th of February, 2024<br>
 Place and time: online, 10:00-12:15 C.E.T. <br>
-Agenda, presentation slides and minutes of the meeting may be seen [here](W2024) <br>
+Agenda, presentation slides and minutes of the meeting may be seen [here](W2024). <br>
 
 ## Previous events
 An overview of events organized by the UserSupport on SDC-Tools group can be found __[here](PreviousEvents.md)__.
