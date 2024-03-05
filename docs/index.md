@@ -9,14 +9,12 @@ title: ""
  
 # Events
 
-## Upcoming events
+## Recent event
 
 ### User Group meeting 2024<br>
 Date: 29-th of February, 2024<br>
-Registration: closed <br>
-Place and time: online, 10:00-12:15 C.E.T., 29.02.2024 <br>
-The meeting link will be sent to registered participants by email <br>
-_[Preliminary Agenda](W2024/agenda_sdc_UG2024.pdf)_ <br>
+Place and time: online, 10:00-12:15 C.E.T. <br>
+Agenda, presentation slides and minutes of the meeting may be seen [here](W2024) <br>
 
 ## Previous events
 An overview of events organized by the UserSupport on SDC-Tools group can be found __[here](PreviousEvents.md)__.
