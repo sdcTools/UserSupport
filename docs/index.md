@@ -9,12 +9,20 @@ title: ""
  
 # Events
 
-## Recent event
+## Upcoming events
+
+### PSD2024
+Date: 25-27 September 2024<br>
+Venue: Palais des Congrès d'Antibes-Juan Les Pins, Antibes, France<br>
+Website: [https://crises-deim.urv.cat/psd2024](https://crises-deim.urv.cat/psd2024/index.php)<br>
+Bi-annual conference "Privacy in Statistical Databases". Not organized by the User Group but highly recommended. <br>
+
+## Recent events
 
 ### User Group meeting 2024<br>
 Date: 29-th of February, 2024<br>
 Place and time: online, 10:00-12:15 C.E.T. <br>
-Agenda, presentation slides and minutes of the meeting may be seen [here](https://github.com/sdcTools/UserSupport/tree/master/docs/W2024). <br>
+Agenda, presentation slides and minutes of the meeting can be found [here](https://github.com/sdcTools/UserSupport/tree/master/docs/W2024). <br>
 
 ## Previous events
 An overview of events organized by the UserSupport on SDC-Tools group can be found __[here](PreviousEvents.md)__.
