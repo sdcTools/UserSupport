@@ -11,6 +11,13 @@ title: ""
 
 ## Upcoming events
 
+### Workshop on Time Series Analysis and Statistical Disclosure Control Methods for Official Statistics<br>
+Organised by: INSEE and OECD <br>
+Venue: OECD headquarters, Paris <br>
+Dates: December 5-6, 2024 <br>
+Deadline for abstract submission: September 15, 2024 <br>
+[Call for papers](Call_for_papers_OECD_Dec_2024.pdf)
+
 ### PSD2024
 Date: 25-27 September 2024<br>
 Venue: Palais des Congrès d'Antibes-Juan Les Pins, Antibes, France<br>
@@ -20,8 +27,7 @@ Bi-annual conference "Privacy in Statistical Databases". Not organized by the Us
 ## Recent events
 
 ### User Group meeting 2024<br>
-Date: 29-th of February, 2024<br>
-Place and time: online, 10:00-12:15 C.E.T. <br>
+Date: 29-th of February, 2024, online <br>
 Agenda, presentation slides and minutes of the meeting can be found [here](https://github.com/sdcTools/UserSupport/tree/master/docs/W2024). <br>
 
 ## Previous events
