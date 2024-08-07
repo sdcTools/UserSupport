@@ -3,34 +3,54 @@ layout: default
 title: ""
 ---
 
-# <img src="Info.png" style="float: left; margin-right: 10px; width: 30px" />[New test release &tau;-argus 4.2.4](#News)
+# <img src="Info.png" style="float: left; margin-right: 10px; width: 30px" />[Latest official release &tau;-argus](#News)
  
 <a name="Events"> 
  
-# Upcoming event
+# Events
 
-## Workshop on Statistical Disclosure Control of Census-data 
-  
-  _May 23, 2023, online_
-  
- - [Invitation](WCensusSDC2023/Invitation_SDC_Census_Workshop.pdf)
- - [Registration form](SDCWorkshopCensus2023.html)
- - Deadline for registration/abstract submission: _14-th of April_
- - Agenda 
+## Upcoming events
 
-# Previous Events
-An overview of events organized by the UserSupport on SDCTools group can be found [here](PreviousEvents.md).
+### Workshop on Time Series Analysis and Statistical Disclosure Control Methods for Official Statistics<br>
+Organised by: INSEE and OECD <br>
+Venue: OECD headquarters, Paris <br>
+Dates: December 5-6, 2024 <br>
+Deadline for abstract submission: September 15, 2024 <br>
+[Call for papers](Call_for_papers_OECD_Dec_2024.pdf)
+
+### PSD2024
+Date: 25-27 September 2024<br>
+Venue: Palais des Congrès d'Antibes-Juan Les Pins, Antibes, France<br>
+Website: [https://crises-deim.urv.cat/psd2024](https://crises-deim.urv.cat/psd2024/index.php)<br>
+Bi-annual conference "Privacy in Statistical Databases". Not organized by the User Group but highly recommended. <br>
+
+## Recent events
+
+### User Group meeting 2024<br>
+Date: 29-th of February, 2024, online <br>
+Agenda, presentation slides and minutes of the meeting can be found [here](https://github.com/sdcTools/UserSupport/tree/master/docs/W2024). <br>
+
+## Previous events
+An overview of events organized by the UserSupport on SDC-Tools group can be found __[here](PreviousEvents.md)__.
  
 <br>
 
 <a name="News">
+
+ 
 # News
 
+**April 26, 2023**<br>
+The official release of [&tau;-argus version 4.2.4 (build 2)](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4.2){:target="_blank"} is now available. the bugs found by Vito Klop&#269;i&#269; are fixed. 
+ 
+**April 14, 2023**<br>
+Thanks to the testing of the [&tau;-argus TEST version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST){:target="_blank"} by Vito Klop&#269;i&#269;, a bug was found that needed to be fixed before officially releasing this version. As a result, the official release did not take place on April 1, 2023 (as intended), but will take place in the week of April 24, 2023.
+ 
 **March 15, 2023**<br> 
-The R-packages `ptable` and `cellKey` are now officially available on CRAN. The official releases of these packages will henceforth be made available not only from the GitHub repositories on [sdcTools](https://github.com/sdcTools), but also from CRAN: [ptable](https://cran.r-project.org/web/packages/ptable) and [cellKey](https://cran.r-project.org/web/packages/cellKey). Developers versions of the packages will still only be available through the GitHub repositories on [sdcTools](https://github.com/sdcTools).
+The R-packages `ptable` and `cellKey` are now officially available on CRAN. The official releases of these packages will henceforth be made available not only from the GitHub repositories on [sdcTools](https://github.com/sdcTools){:target="_blank"}, but also from CRAN: [ptable](https://cran.r-project.org/web/packages/ptable){:target="_blank"} and [cellKey](https://cran.r-project.org/web/packages/cellKey){:target="_blank"}. Developers versions of the packages will still only be available through the GitHub repositories on [sdcTools](https://github.com/sdcTools){:target="_blank"}.
  
 **March 10, 2023** <br>
-NEW TEST RELEASE: A new release for testing is uploaded: [&tau;-argus version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST).
+NEW TEST RELEASE: A new release for testing is uploaded: [&tau;-argus version 4.2.4](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4-TEST){:target="_blank"}.
 The main new features to be tested are:
 - Save and read recode files, including recode files for tree-based hierarchical variables
 - Keep status (optionally) with tabular input made additive
@@ -42,28 +62,28 @@ Obviously, other tests are welcome as well, e.g. making sure that older features
 Feedback is welcome until Marh 25. I intend to make the release official on April 1.
   
 **July 29, 2022** <br>
-NEW RELEASE: [Version 4.2.3 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.3) is now available. The main change is that it is now possible to use the improved ptables produced by the [ptable R package](https://github.com/sdcTools/ptable) (version 0.4.0 and higher). This is important for users of CKM for frequency count tables of the census 2021.
+NEW RELEASE: [Version 4.2.3 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.3){:target="_blank"} is now available. The main change is that it is now possible to use the improved ptables produced by the [ptable R package](https://github.com/sdcTools/ptable){:target="_blank"} (version 0.4.0 and higher). This is important for users of CKM for frequency count tables of the census 2021.
   
 Note that previous versions of &tau;-argus (version 4.2.2 and lower) will apply the new ptables incorrectly without issuing a warning!
   
 **March 18, 2022** <br>
-NEW RELEASE: [Version 4.2.2 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.2.1) is now available. The main improvement in this version is in the Modular approach, where the engine was partly rewritten to improve memory management and stability. Additionally, for some instances of (sub)tables with infeasible suppression problems, &tau;-argus no longer crashes but produces an error message and will stop calculation. Additionally some bugs were fixed (spaces in directory names are now allowed, cell keys are correctly saved in CKM for frequency count tables, etc.). 
+NEW RELEASE: [Version 4.2.2 build 1 of &tau;-argus](https://github.com/sdcTools/tauargus/releases/tag/v4.2.2.1){:target="_blank"} is now available. The main improvement in this version is in the Modular approach, where the engine was partly rewritten to improve memory management and stability. Additionally, for some instances of (sub)tables with infeasible suppression problems, &tau;-argus no longer crashes but produces an error message and will stop calculation. Additionally some bugs were fixed (spaces in directory names are now allowed, cell keys are correctly saved in CKM for frequency count tables, etc.). 
   
 **January 14, 2022: new build of version 5.1.6 of &mu;-argus released** <br>
 IMPORTANT NOTE:  
 &mu;-Argus version 5.1.6 build 1 sometimes did not save the report file properly. This is now fixed in build 2. Moreover, the "undo"-actions for TRS have been improved.
-This new build can be found [here](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b2).
+This new build can be found [here](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b2){:target="_blank"}.
   
 **June 7, 2021** <br>
-NEW RELEASE: [Version 5.1.6 build 1  of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b1) is now available. This version contains some updates concerning Targeted Record Swapping (TRS). In the report file some information on the number of (non)-swapped households and swapped records is included and the lay-out of the report file concerning TRS-info has changed slightly. Moreover, in the `%TEMP%` directory a log-file will be saved with the IDs of households for which no donor household could be found based on the used similarity variables.
+NEW RELEASE: [Version 5.1.6 build 1  of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/v5.1.6b1){:target="_blank"} is now available. This version contains some updates concerning Targeted Record Swapping (TRS). In the report file some information on the number of (non)-swapped households and swapped records is included and the lay-out of the report file concerning TRS-info has changed slightly. Moreover, in the `%TEMP%` directory a log-file will be saved with the IDs of households for which no donor household could be found based on the used similarity variables.
   
 From this release onwards, only a 64 bit compiled executable of &mu;-argus will be made available.
   
 **April 7, 2021** <br>
-A Windows 64 bit compiled release of version [5.1.5 build 3 of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3) is now available. This version is able to deal with larger datasets when applying Targeted Record Swapping as compared to the 32 bit release.
+A Windows 64 bit compiled release of version [5.1.5 build 3 of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3){:target="_blank"} is now available. This version is able to deal with larger datasets when applying Targeted Record Swapping as compared to the 32 bit release.
 
 **January 22, 2021** <br>
-NEW RELEASE: [Version 5.1.5 build 3 of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3) is now available. This version includes Targeted Record Swapping. The GUI for using this method is still under development, but the basic functionality of TRS is now available.
+NEW RELEASE: [Version 5.1.5 build 3 of &mu;-argus](https://github.com/sdcTools/muargus/releases/tag/5.1.5.3){:target="_blank"} is now available. This version includes Targeted Record Swapping. The GUI for using this method is still under development, but the basic functionality of TRS is now available.
 
 **August 14, 2020** <br>
 Small issue with the latest release (4.2.0 build 5) of &tau;-argus when installed in a directory that contains spaces (e.g., `C:\Program Files (x86)`). Two possible solutions: 
@@ -80,11 +100,11 @@ NEW RELEASE: Version 4.2.0 build 5 of &tau;-argus is now available. This version
 
 <a name="Support">
 # UserSupport
-Check out [the wiki](https://github.com/sdcTools/UserSupport/wiki) 
-and [the issues](https://github.com/sdcTools/UserSupport/issues) 
+Check out [the wiki](https://github.com/sdcTools/UserSupport/wiki){:target="_blank"} 
+and [the issues](https://github.com/sdcTools/UserSupport/issues){:target="_blank"} 
 for more details and discussion.
 
-Have a look at [the FAQ](https://github.com/sdcTools/UserSupport/wiki/FAQ) for frequently asked questions.
+Have a look at [the FAQ](https://github.com/sdcTools/UserSupport/wiki/FAQ){:target="_blank"} for frequently asked questions.
 
 <br>
 

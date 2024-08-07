@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Registration for the 2024 SDC User Group Meeting </title>
+  <link rel="stylesheet" href="ContactForm.css">
+</head>
+<body>
+<div class="container">
+	<form id="contact" action="https://formspree.io/f/meqyedjl" method="POST">
+		<fieldset>
+			<label for="githubname">Github username *:
+				<input name="githubname" type="text" placeholder="Enter your github username" required>
+			</label>
+		</fieldset>
+		<fieldset>
+			<label for="E-Mail">E-Mail address:
+				<input name="E-Mail" type="text" placeholder="Enter your email address" required>
+			</label>
+		</fieldset>
+        	<fieldset>
+        		<label for="Select">Please select whether you would like to give a short talk
+        		<select name="Select" required> 
+        			<option value="" selected="" disabled="">Select</option>
+        			<option value="Yes">Yes</option>
+        			<option value="No">No</option>
+          		</select>
+          	</fieldset>  
+		<fieldset>
+			<label for="Comment">What topic(s) would you like to present / be discussed:
+				<textarea name="Comment"> </textarea>
+			</label>
+		</fieldset>
+
+		<button type="submit">Sign up for the 2024 SDCTools User Meeting</button>
+		<input type="hidden" name="_next" value="https://www.nu.nl">
+		<br>
+		<br>
+		<footer>
+			<a href="https://sdctools.github.io/UserSupport/">Back to home page</a>
+		</footer>
+    </form>
+</div>
+</body>
+</html>
