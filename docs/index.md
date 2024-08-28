@@ -43,6 +43,8 @@ An overview of events organized by the UserSupport on SDC-Tools group can be fou
 **August 28, 2024**<br>
 One of the tasks of a Centre of Excellence on SDC launched in 2020 (for 4 years), as part of the STACE project (Statistical methods and tools Centers of Excellence, grant agreement 899218–2019-BG-Methodology, 2020–2024), was to update the [ESSnet SDC Handbook on Statistical Disclosure Control](https://research.cbs.nl/casc/SDC_Handbook.pdf). With permission of all the original authors, a second edition was produced by the partners in the STACE project. The format of the handbook was revised to facilitate online as well as offline publication and some new content was added. The online version can be accessed through the link at the left side of this page, or directly [here](https://sdctools.github.io/HandbookSDC). The Preface of the online version also provides a link to download a pdf-version for print.
 
+Note that the document is a "live" document and may be adjusted over time. So be sure to always check for the latest version!
+
 **August 28, 2024**<br>
 The official release of [&tau;-argus version 4.2.5 (build 2)](https://github.com/sdcTools/tauargus/releases/tag/v4.2.5.2){:target="_blank"} is now available.  
 
