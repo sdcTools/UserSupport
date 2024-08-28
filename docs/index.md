@@ -40,6 +40,9 @@ An overview of events organized by the UserSupport on SDC-Tools group can be fou
  
 # News
 
+**August 28, 2024**<br>
+The official release of [&tau;-argus version 4.2.5 (build 2)](https://github.com/sdcTools/tauargus/releases/tag/v4.2.5.2){:target="_blank"} is now available.  
+
 **April 26, 2023**<br>
 The official release of [&tau;-argus version 4.2.4 (build 2)](https://github.com/sdcTools/tauargus/releases/tag/v4.2.4.2){:target="_blank"} is now available. the bugs found by Vito Klop&#269;i&#269; are fixed. 
  
