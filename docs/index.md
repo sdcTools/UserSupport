@@ -18,13 +18,14 @@ Dates: December 5-6, 2024 <br>
 Deadline for abstract submission: September 15, 2024 <br>
 [Call for papers](Call_for_papers_OECD_Dec_2024.pdf)
 
+
+## Recent events
 ### PSD2024
 Date: 25-27 September 2024<br>
 Venue: Palais des Congrès d'Antibes-Juan Les Pins, Antibes, France<br>
 Website: [https://crises-deim.urv.cat/psd2024](https://crises-deim.urv.cat/psd2024/index.php)<br>
 Bi-annual conference "Privacy in Statistical Databases". Not organized by the User Group but highly recommended. <br>
 
-## Recent events
 
 ### User Group meeting 2024<br>
 Date: 29-th of February, 2024, online <br>
