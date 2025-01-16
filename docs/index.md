@@ -11,6 +11,11 @@ title: ""
 
 ## Upcoming events
 
+### User Group meeting 2025<br>
+Date: 27-th of February, 2025, online <br>
+Registration form <br>
+Agenda
+
 ### Expert meeting on Data Confidentiality<br>
 Organised by: UNECE and Eurostat <br>
 Venue: Barcelona <br>
