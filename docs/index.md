@@ -13,7 +13,7 @@ title: ""
 
 ### User Group meeting 2025<br>
 Date: 27-th of February, 2025, online <br>
-[Registration form](sdcUserMeeting2025.html) <br>
+__[Registration form](sdcUserMeeting2025.html)__ <br>
 Agenda
 
 ### Expert meeting on Data Confidentiality<br>
