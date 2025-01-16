@@ -11,13 +11,11 @@ title: ""
 
 ## Upcoming events
 
-### Workshop on Time Series Analysis and Statistical Disclosure Control Methods for Official Statistics<br>
-Organised by: INSEE and OECD <br>
-Venue: OECD headquarters, Paris <br>
-Dates: December 5-6, 2024 <br>
-Deadline for abstract submission: September 15, 2024 <br>
-[Call for papers](Call_for_papers_OECD_Dec_2024.pdf)
-
+### Expert meeting on Data Confidentiality<br>
+Organised by: UNECE and Eurostat <br>
+Venue: Barcelona <br>
+Dates: October 15-17, 2025 <br>
+Further information to be announced <br>
 
 ## Recent events
 ### PSD2024
