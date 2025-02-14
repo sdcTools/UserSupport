@@ -12,7 +12,7 @@ title: ""
 ## Upcoming events
 
 ### User Group meeting 2025<br>
-Date: 27-th of February, 2025, online <br>
+Date: 27-th of February, 2025, online, 14:00-16:00 C.E.T. <br>
 __[Registration form](sdcUserMeeting2025.html)__ <br>
 Agenda
 
