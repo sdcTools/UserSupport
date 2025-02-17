@@ -14,7 +14,7 @@ title: ""
 ### User Group meeting 2025<br>
 Date: 27-th of February, 2025, online, 14:00-16:00 C.E.T. <br>
 __[Registration form](sdcUserMeeting2025.html)__ <br>
-Agenda
+[Agenda](https://github.com/sdcTools/UserSupport/blob/master/docs/W2025/Agenda_UG_2025.pdf)
 
 ### Expert meeting on Data Confidentiality<br>
 Organised by: UNECE and Eurostat <br>
