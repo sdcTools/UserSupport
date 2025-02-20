@@ -20,7 +20,7 @@ __[Registration form](sdcUserMeeting2025.html)__ <br>
 Organised by: UNECE and Eurostat <br>
 Venue: Barcelona <br>
 Dates: October 15-17, 2025 <br>
-Further information to be announced <br>
+[Information and call for papers](https://unece.org/sites/default/files/2025-02/Inf1_SDC2025_0.pdf)  <br>
 
 ## Recent events
 ### PSD2024
