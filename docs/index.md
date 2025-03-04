@@ -11,10 +11,6 @@ title: ""
 
 ## Upcoming events
 
-### User Group meeting 2025<br>
-Date: 27-th of February, 2025, online, 14:00-16:00 C.E.T. <br>
-[Agenda](https://github.com/sdcTools/UserSupport/blob/master/docs/W2025/Agenda_UG_2025.pdf)
-
 ### Expert meeting on Data Confidentiality<br>
 Organised by: UNECE and Eurostat <br>
 Venue: Barcelona <br>
@@ -22,6 +18,13 @@ Dates: October 15-17, 2025 <br>
 [Information and call for papers](https://unece.org/sites/default/files/2025-02/Inf1_SDC2025_0.pdf)  <br>
 
 ## Recent events
+
+### User Group meeting 2025<br>
+Date: 27-th of February, 2025, online <br>
+[Agenda](https://github.com/sdcTools/UserSupport/blob/master/docs/W2025/Agenda_UG_2025.pdf)
+ and [presentation slides](https://github.com/sdcTools/UserSupport/tree/master/docs/W2025)
+
+
 ### PSD2024
 Date: 25-27 September 2024<br>
 Venue: Palais des Congrès d'Antibes-Juan Les Pins, Antibes, France<br>
