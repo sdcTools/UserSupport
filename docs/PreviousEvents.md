@@ -1,6 +1,6 @@
 # Overview of previous events
 
-### User Group meeting 2024<br>
+## User Group meeting 2024<br>
 The 2024 User Group meeting took place online, on February the 29-th. 
 
 Agenda, presentation slides and minutes of the meeting can be found [here](https://github.com/sdcTools/UserSupport/tree/master/docs/W2024). <br>
