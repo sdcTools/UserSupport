@@ -1,5 +1,10 @@
 # Overview of previous events
 
+### User Group meeting 2024<br>
+The 2024 User Group meeting took place online, on February the 29-th. 
+
+Agenda, presentation slides and minutes of the meeting can be found [here](https://github.com/sdcTools/UserSupport/tree/master/docs/W2024). <br>
+
 ## Joint Workshop on Time Series Analysis and Statistical Disclosure Control Methods for Official Statistics, December 2023<br>
 It took place during 14-15 December, 2023 at OECD-Boulogne (Paris), France.<br>
 The agenda may be found [here](agendaParis_dec2023.pdf).
