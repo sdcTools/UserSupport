@@ -11,13 +11,17 @@ title: ""
 
 ## Upcoming events
 
+### User Group meeting 2026<br>
+Date: TBA (last week of February), online <br>
+
+
+## Recent events
+
 ### Expert meeting on Data Confidentiality<br>
 Organised by: UNECE and Eurostat <br>
 Venue: Barcelona <br>
 Dates: October 15-17, 2025 <br>
-[Information and call for papers](https://unece.org/sites/default/files/2025-02/Inf1_SDC2025_0.pdf)  <br>
-
-## Recent events
+[Papers and slides](https://unece.org/statistics/events/SDC2025) <br>
 
 ### User Group meeting 2025<br>
 Date: 27-th of February, 2025, online <br>
@@ -25,11 +29,6 @@ Date: 27-th of February, 2025, online <br>
  and [presentation slides](https://github.com/sdcTools/UserSupport/tree/master/docs/W2025)
 
 
-### PSD2024
-Date: 25-27 September 2024<br>
-Venue: Palais des Congrès d'Antibes-Juan Les Pins, Antibes, France<br>
-Website: [https://crises-deim.urv.cat/psd2024](https://crises-deim.urv.cat/psd2024/index.php)<br>
-Bi-annual conference "Privacy in Statistical Databases". Not organized by the User Group but highly recommended. <br>
 
 
 ## Previous events
@@ -129,3 +128,4 @@ Find out about the latest releases of the tools [here](Releases.md)
 Find out about the download statistics of the tools [here](Statistics.md)
 <br>
  
+
