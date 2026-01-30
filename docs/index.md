@@ -15,7 +15,7 @@ title: ""
 Date: Thursday, 26-th of _March_, online <br>
 Registration - to open soon <br>
 
-It follows and will present to the User Group the conclusions of a preceeding expert meeting dedicated to planning new SDC-tools developments for the next four years<br>
+It follows and will present to the User Group the conclusions of an expert meeting dedicated to planning new SDC-tools developments for the next four years<br>
 
 
 ## Recent events
@@ -131,5 +131,6 @@ Find out about the latest releases of the tools [here](Releases.md)
 Find out about the download statistics of the tools [here](Statistics.md)
 <br>
  
+
 
 
