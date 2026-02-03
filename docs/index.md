@@ -13,7 +13,7 @@ title: ""
 
 ### User Group meeting 2026<br>
 Date: Thursday, 26-th of _March_, online <br>
-Registration - to open soon <br>
+[Registration](https://github.com/sdcTools/UserSupport/blob/master/docs/sdcUserMeeting2026.html) <br>
 
 It follows and will present to the User Group the conclusions of an expert meeting dedicated to planning new SDC-tools developments for the next four years, in the framework of the new SDC centre of excellence to be launched in 2026 <br>
 
@@ -131,6 +131,7 @@ Find out about the latest releases of the tools [here](Releases.md)
 Find out about the download statistics of the tools [here](Statistics.md)
 <br>
  
+
 
 
 
