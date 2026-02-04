@@ -12,7 +12,7 @@ title: ""
 ## Upcoming events
 
 ### User Group meeting 2026<br>
-Date: Thursday, 26-th of _March_, online <br>
+Date: Wednesday, 25-th of _March_, online <br>
 [Registration](sdcUserMeeting2026.html) <br>
 Agenda <br>
 
@@ -132,6 +132,7 @@ Find out about the latest releases of the tools [here](Releases.md)
 Find out about the download statistics of the tools [here](Statistics.md)
 <br>
  
+
 
 
 
