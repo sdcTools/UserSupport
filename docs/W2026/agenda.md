@@ -8,7 +8,7 @@ Modernization of Tau-Argus (Peter-Paul deWolf)
 
 ratuargus release 1.3.3: a step further in the automation of the analysis (Clara Baudry)
 
-Gauss-supression R-package (Øyvind Langsrud)
+Gauss-supression R-package (Oyvind Langsrud)
 
 SDC-tools R-packages, status and plans (TBC)
 
