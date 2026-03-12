@@ -1,0 +1,15 @@
+__Preliminary Agenda__
+
+(8:30-11:30 GMT/ 9:30-12:30 CET)
+
+Introduction
+
+Modernization of Tau-Argus (Peter-Paul deWolf)
+
+ratuargus release 1.3.3: a step further in the automation of the analysis (Clara Baudry)
+
+Gauss-supression R-package (Øyvind Langsrud)
+
+SDC-tools R-packages, status and plans (TBC)
+
+Discussions (suggestions for UG interractions/discussions, new tools for output checking)
