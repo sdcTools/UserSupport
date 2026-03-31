@@ -11,10 +11,11 @@ title: ""
 
 ## Upcoming events
 
-### Privacy in statistical databases 2026 <br>
+### Privacy in statistical databases PSD2026 <br>
 [Web-site](https://crises-deim.urv.cat/psd2026/) <br>
 Dates: Sept. 30 - Oct. 2, 2026 <br>
-A conference recommended to the members of the SDC-User Group. It is organized by the CRISES research group at Universitat Rovira i Virgili with proceedings published by Springer-Verlag in Lecture Notes in Computer Science.
+Venue: University of Cádiz (Facultad de Ciencias Económicas y Empresariales, Universidad de Cádiz) in Cádiz <br>
+A bi-annual conference, highly recommended to the members of the SDC-User Group. Organized by the CRISES research group at Universitat Rovira i Virgili with proceedings published by Springer-Verlag in Lecture Notes in Computer Science.
 
 
 
