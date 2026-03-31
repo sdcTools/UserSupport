@@ -1,5 +1,11 @@
 # Overview of previous events
 
+### User Group meeting 2025<br>
+Date: 27-th of February, 2025, online <br>
+[Agenda](https://github.com/sdcTools/UserSupport/blob/master/docs/W2025/Agenda_UG_2025.pdf)
+and [presentation slides](https://github.com/sdcTools/UserSupport/tree/master/docs/W2025)
+
+
 ### PSD2024
 Date: 25-27 September 2024<br>
 Venue: Palais des Congrès d'Antibes-Juan Les Pins, Antibes, France<br>
