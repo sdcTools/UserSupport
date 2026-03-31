@@ -15,7 +15,7 @@ title: ""
 [Web-site](https://crises-deim.urv.cat/psd2026/) <br>
 Dates: Sept. 30 - Oct. 2, 2026 <br>
 Venue: University of Cádiz (Facultad de Ciencias Económicas y Empresariales, Universidad de Cádiz) in Cádiz <br>
-A bi-annual conference, highly recommended to the members of the SDC-User Group. Organized by the CRISES research group at Universitat Rovira i Virgili with proceedings published by Springer-Verlag in Lecture Notes in Computer Science.
+A bi-annual conference, highly recommended to the members of the SDC-User Group. Organized by the CRISES research group at Universitat Rovira i Virgili.
 
 
 
