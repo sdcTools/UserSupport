@@ -46,8 +46,7 @@ An overview of events organized by the UserSupport on SDC-Tools group can be fou
 # News
 
 **June 26, 2026**<br>
-The STACE project ended end of August 2024. We are happy to let you know that we have a new EC grant for four years: COSA (COnfidentiality and Seasonal Adjustment, ). The COSA project is a continuation of the STACE project. For general info on the project, see [cosa-grant.org](https://cosa-grant.org).
-The COSA project started November 2025 and runs for four years.
+The STACE project ended 31 August, 2024. We are happy to let you know that thanks to a new European Commission-EU grant, the project COSA (COnfidentiality and Seasonal Adjustment, Project: 101270665 — 2025-FR-COSA — SMP-ESS-2025-COSA) has started. The COSA project, partially funded by the EU grant, is a continuation of the STACE project. For general info on the project, see [cosa-grant.org](https://cosa-grant.org). The COSA project started November 2025 and runs for four years.
 
 **August 28, 2024**<br>
 One of the tasks of a Centre of Excellence on SDC launched in 2020 (for 4 years), as part of the STACE project (Statistical methods and tools Centers of Excellence, grant agreement 899218–2019-BG-Methodology, 2020–2024), was to update the [ESSnet SDC Handbook on Statistical Disclosure Control](https://research.cbs.nl/casc/SDC_Handbook.pdf). With permission of all the original authors, a second edition was produced by the partners in the STACE project. The format of the handbook was revised to facilitate online as well as offline publication and some new content was added. The online version can be accessed through the link at the left side of this page, or directly [here](https://sdctools.github.io/HandbookSDC). The Preface of the online version also provides a link to download a pdf-version for print.
