@@ -11,6 +11,14 @@ title: ""
 
 ## Upcoming events
 
+### User Group meeting 2027<br>
+Date (preliminary): February 25, online <br>
+Agenda TBA <br>
+Registration <br>
+
+
+## Recent events
+
 ### Privacy in statistical databases PSD2026 <br>
 [Web-site](https://crises-deim.urv.cat/psd2026/) <br>
 Dates: Sept. 30 - Oct. 2, 2026 <br>
@@ -18,20 +26,10 @@ Venue: University of Cádiz (Facultad de Ciencias Económicas y Empresariales, U
 A bi-annual conference, highly recommended to the members of the SDC-User Group. Organized by the CRISES research group at Universitat Rovira i Virgili.
 
 
-
-## Recent events
-
 ### User Group meeting 2026<br>
 Date: Wednesday, 25-th of _March_, online  (8:30-11:30 GMT) 9:30-12:30 __CET__ <br>
 [Agenda, Presentation slides and minutes](https://github.com/sdcTools/UserSupport/tree/master/docs/W2026/) <br> 
 It followed and presented to the User Group the conclusions of an expert meeting dedicated to planning new SDC-tools developments for the next four years, in the framework of the new SDC centre of excellence launched in November 2025 <br>
-
-
-### Expert meeting on Data Confidentiality<br>
-Organised by: UNECE and Eurostat <br>
-Venue: Barcelona <br>
-Dates: October 15-17, 2025 <br>
-[Papers and slides](https://unece.org/statistics/events/SDC2025) <br>
 
 
 
