@@ -13,18 +13,18 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
+        <header>
         <a href="{{ site.url }}">
           <img src="{{ site.logo }}" alt="Logo" width="120" height="120" style="border:0px;" />
         </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <!-- Cleaned navigation box preventing overlap -->
-        <div class="custom-nav-box" style="margin-top: 20px;">
+        <!-- FIXED WRAPPER WITH CLEAR FLOATS & MARGIN BOTTOM -->
+        <div style="display: block; clear: both; margin-bottom: 40px; padding-bottom: 10px;">
           {% include_relative gotos.html %}
-          <div style="margin-top: 15px;">
+          <div style="margin-top: 15px; margin-bottom: 15px;">
             <a href="ContactForm">
-              <kbd style="display: inline-block; text-align: center; line-height: 1.4; padding: 6px 10px;">
+              <kbd style="display: inline-block; text-align: center; line-height: 1.4; padding: 6px 10px; white-space: nowrap;">
                 Apply for membership<br>User Group SDC
               </kbd>
             </a>
