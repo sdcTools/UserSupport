@@ -1,5 +1,12 @@
 # Overview of previous events
 
+### Expert meeting on Data Confidentiality<br>
+Organised by: UNECE and Eurostat <br>
+Venue: Barcelona <br>
+Dates: October 15-17, 2025 <br>
+[Papers and slides](https://unece.org/statistics/events/SDC2025) <br>
+
+
 ### User Group meeting 2025<br>
 Date: 27-th of February, 2025, online <br>
 [Agenda](https://github.com/sdcTools/UserSupport/blob/master/docs/W2025/Agenda_UG_2025.pdf)
