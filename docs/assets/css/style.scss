@@ -1,41 +1,119 @@
 ---
 ---
 
+// 1. DEFINE COLORS (Switches automatically between light and dark)
+:root {
+  --bg-color: #ffffff;
+  --text-color: #232323;
+  --title-color: #000000;
+  --link-color: #0066cc;
+  --link-hover: #0044aa;
+  --border-color: #e5e5e5;
+  --code-bg: #f8f8f8;
+  --code-text: #333333;
+  --kbd-bg: #454545;
+  --kbd-border: #c6cbd1;
+  --kbd-shadow: #959da5;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #1e1e1e !important;
+    --text-color: #e0e0e0 !important;
+    --title-color: #ffffff !important;
+    --link-color: #64b5f6 !important;
+    --link-hover: #90caf9 !important;
+    --border-color: #3a3a3a !important;
+    --code-bg: #2d2d2d !important;
+    --code-text: #f8f8f2 !important;
+    --kbd-bg: #2d2d2d !important;
+    --kbd-border: #444444 !important;
+    --kbd-shadow: rgba(0, 0, 0, 0.6) !important;
+  }
+}
+
+// 2. LOAD THEME
 @import "jekyll-theme-minimal";
 
+// 3. ADJUST SOME THINGS
+html {
+  background-color: var(--bg-color) !important;
+}
+
 body {
-  background-color: #fff;
-  padding:50px;
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+  padding: 50px;
   font: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#232323;
-  font-weight:400;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, strong {
+  color: var(--title-color) !important;
+}
+
+a {
+  color: var(--link-color) !important;
+}
+a:hover {
+  color: var(--link-hover) !important;
 }
 
 img {
-  max-width:70%;
+  max-width: 70%;
 }
 
 .wrapper {
-  width:1050px;
-  margin:0 auto;
+  width: 1050px;
+  margin: 0 auto;
 }
 
 /* Section - for main page content */
-section { width: 750px; float: right; padding-bottom: 50px; }
+section { 
+  width: 750px; 
+  float: right; 
+  padding-bottom: 50px; 
+}
 
 /* Header */
-header { font-size: 15px; width: 200px; float: left; border: 0px solid #000; -webkit-border-top-right-radius: 4px; -webkit-border-bottom-right-radius: 4px; -moz-border-radius-topright: 4px; -moz-border-radius-bottomright: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; padding: 22px 25px 22px 25px; margin: 0 25px 0 0; -webkit-font-smoothing: antialiased; }
+header { 
+  font-size: 15px; 
+  width: 200px; 
+  float: left; 
+  border: 0px solid #000; 
+  -webkit-border-top-right-radius: 4px; 
+  -webkit-border-bottom-right-radius: 4px; 
+  -moz-border-radius-topright: 4px; 
+  -moz-border-radius-bottomright: 4px; 
+  border-top-right-radius: 4px; 
+  border-bottom-right-radius: 4px; 
+  padding: 22px 25px 22px 25px; 
+  margin: 0 25px 0 0; 
+  -webkit-font-smoothing: antialiased; 
+}
 
 /* Footer */
-footer { width: 200px; float: left; position: fixed; bottom: 10px; padding-left: 25px; }
+footer { 
+  width: 200px; 
+  float: left; 
+  position: fixed; 
+  bottom: 10px; 
+  padding-left: 25px; 
+}
+
+pre, code {
+  background-color: var(--code-bg) !important;
+  color: var(--code-text) !important;
+  border-color: var(--border-color) !important;
+}
 
 kbd {
   text-align: center;
-  background-color: #454545;
-  border: 1px solid #c6cbd1;
-  border-bottom-color: #959da5;
-  box-shadow: 5px 10px 10px #959da5;
-  color: #fff;
+  background-color: var(--kbd-bg) !important;
+  border: 1px solid var(--kbd-border) !important;
+  border-bottom-color: var(--kbd-border) !important;
+  box-shadow: 5px 10px 10px var(--kbd-shadow) !important;
+  color: #fff !important;
   padding: 10px 10px;
   font-size: 14px;
   font-weight: bold;
@@ -52,72 +130,72 @@ kbd {
 }
 
 kbd:hover {
-	background-color: #000;
+  background-color: #000 !important;
 }
 
+/* RESPONSIVE LAYOUTS */
 @media print, screen and (max-width: 1150px) {
-
   div.wrapper {
-    width:auto;
-    margin:0;
+    width: auto;
+    margin: 0;
   }
 
   header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
+    float: none;
+    position: static;
+    width: auto;
   }
 
   header {
-    padding-right:320px;
+    padding-right: 320px;
   }
 
   section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0;
-    margin:0 0 20px;
+    border: 1px solid var(--border-color) !important;
+    border-width: 1px 0 !important;
+    padding: 20px 0;
+    margin: 0 0 20px;
   }
 
   header a small {
-    display:inline;
+    display: inline;
   }
 
   header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
+    position: absolute;
+    right: 50px;
+    top: 52px;
   }
 }
 
 @media print, screen and (max-width: 720px) {
   body {
-    word-wrap:break-word;
+    word-wrap: break-word;
   }
 
   header {
-    padding:0;
+    padding: 0;
   }
 
   header ul, header p.view {
-    position:static;
+    position: static;
   }
 
   pre, code {
-    word-wrap:normal;
+    word-wrap: normal;
   }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding:15px;
+    padding: 15px;
   }
 
   .downloads {
-    width:99%;
+    width: 99%;
   }
 
   .downloads li, .downloads li + li + li {
-    width:33%;
+    width: 33%;
   }
 }
